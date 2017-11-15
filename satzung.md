@@ -2,7 +2,7 @@ Satzung des noch zu benennenden de-RSE Vereins
 
 1. Name, sitz, Geschäftsjahr
     1. Der Verein trägt den Namen "NAME" und ist in das Vereinsregister bei ... eingetragen.
-    1. Der Verein hat seinen Sitz in Jena. Das Geschäftsjahr entspricht dem Kalenderjahr.
+    1. Der Verein hat seinen Sitz in .... Das Geschäftsjahr entspricht dem Kalenderjahr.
 
 1. Gemeinnützigkeit
     1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnittes "Steuerbegünstigte Zwecke" der Abgabenordnung.
