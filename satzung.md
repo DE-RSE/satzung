@@ -16,7 +16,7 @@ Satzung des noch zu benennenden de-RSE Vereins
         - zweitens
         - ...
 1. Mitgliedschaft
-    1. Mitglied des Vereins kann jede natürliche Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden.
+    1. Ordentliches Mitglied des Vereins kann jede natürliche Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden.
     1. Die Beitrittserklärung erfolgt in Schriftform gemäß (TODO: Nummer des letzten Paragraphen) gegenüber dem Vorstand. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Der Vorstand kann den Beitritt ohne Angabe von Gründen verweigern. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
     1. Hat der Vorstand die Aufnahme abgelehnt, so kann der Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet.
     1. Die Mitgliedschaft endet durch Austrittserklärung, durch Ausschluss, durch Tod einer natürlichen Personen oder durch Auflösung und Erlöschung von nicht natürlichen Personen.
@@ -30,11 +30,11 @@ Satzung des noch zu benennenden de-RSE Vereins
 
 1. Mitgliederversammlung
     1. Die Mitgliederversammlung ist das oberste Beschlussorgan des Vereins. Ihr obliegen alle Entscheidungen, die nicht durch die Satzung oder die Geschäftsordnung einem anderen Organ übertragen wurden.
-    1. Beschlüsse werden von der Mitgliederversammlung durch öffentliche Abstimmung getroffen. Auf Wunsch eines Mitglieds ist geheim abzustimmen.
-    1. Jedes Mitglied hat genau eine Stimme.
+    1. Beschlüsse werden von der Mitgliederversammlung durch öffentliche Abstimmung getroffen. Auf Wunsch eines ordentlichen Mitglieds ist geheim abzustimmen.
+    1. Jedes ordentliche Mitglied hat genau eine Stimme.
     1. Zur Fassung eines Beschlusses ist eine einfache Mehrheit der abgegebenen Stimmen notwendig, soweit die Satzung nichts anderes bestimmt. Eine zur Herstellung der Beschlussfähigkeit nötige Untergrenze von abgegebenen Stimmen wird in der Geschäftsordnung festgelegt.
     1. Eine ordentliche Mitgliederversammlung, bezeichnet als Jahreshauptversammlung, wird einmal jährlich einberufen. Ihre Tagesordnung umfasst unter anderem den Rechenschaftsbericht des Vorstands über die Vereinstätigkeit sowie den Rechenschaftsbericht des Schatzmeisters für das vorherige Geschäftsjahr.
-    1. Eine außerordentliche Mitgliederversammlung kann jederzeit einberufen werden, wenn mindestens 25% der Mitglieder oder der Vorstand dies jeweils schriftlich gemäß (TODO: Nummer des letzten Paragraphen) unter Angabe eines Grunds beantragen. Dem angegebenen Grund müssen die gewünschten Tagesordnungspunkte zu entnehmen sein; sie werden auf die Einladung übernommen.
+    1. Eine außerordentliche Mitgliederversammlung kann jederzeit einberufen werden, wenn mindestens 25% der ordentlichen Mitglieder oder der Vorstand dies jeweils schriftlich gemäß (TODO: Nummer des letzten Paragraphen) unter Angabe eines Grunds beantragen. Dem angegebenen Grund müssen die gewünschten Tagesordnungspunkte zu entnehmen sein; sie werden auf die Einladung übernommen.
     1. Dem Vorstand obliegt zu allen Mitgliederversammlungen die Festsetzung eines Termins und die rechtzeitige Einladung aller Mitglieder bis spätestens zwei Wochen vor dem von ihm festgesetzten Termin. Bei von den Mitgliedern beantragten Mitgliederversammlungen darf der Termin nicht mehr als zwölf Wochen nach dem Eingang des Antrags beim Vorstand liegen.
     1. Der Vorstand kann die Einladungen auf schriftlichem Weg gemäß (TODO: Nummer des letzten Paragraphen) zustellen, muss jedoch eine Kopie auf dem Postweg zustellen, falls das Mitglied den Wunsch dazu schriftlich gemäß (TODO: Nummer des letzten Paragraphen) angemeldet hat.
     1. In der Einladung werden die Tagesordnungspunkte sowie weitere nötige Informationen bekannt gegeben. Die Mitgliederversammlung kann per Beschluss die Tagesordnung verändern.
@@ -42,7 +42,7 @@ Satzung des noch zu benennenden de-RSE Vereins
 nächsten Mitgliederversammlung genehmigen zu lassen.
 
 1. Vereinsvorstand
-    1. Der Vorstand besteht aus mindestens drei Mitgliedern: dem Vorstandsvorsitzenden, dem Schatzmeister und dem Schriftführer. Des Weiteren können bis zu drei Beisitzer in den Vorstand gewählt werden. Es kann auf Wunsch der Mitgliederversammlung auf eine Wahl der Beisitzer verzichtet werden.
+    1. Der Vorstand besteht aus mindestens drei ordentlichen Mitgliedern: dem Vorstandsvorsitzenden, dem Schatzmeister und dem Schriftführer. Des Weiteren können bis zu drei Beisitzer in den Vorstand gewählt werden. Es kann auf Wunsch der Mitgliederversammlung auf eine Wahl der Beisitzer verzichtet werden.
     1. Vorstand im Sinne des §26 BGB sind der Vorstandsvorsitzender, Schatzmeister sowie der Schriftführer. Diese sind einzeln berechtigt, den Verein nach außen zu vertreten. Die Geschäftsordnung kann hierfür Einschränkungen festlegen.
     1. Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Näheres regelt die Geschäftsordnung.
     1. Vorstandsmitglieder können jederzeit von ihrem Amt zurücktreten.
