@@ -15,6 +15,7 @@ Satzung des noch zu benennenden de-RSE Vereins
         - erstens
         - zweitens
         - ...
+
 1. Mitgliedschaft
     1. Ordentliches Mitglied des Vereins kann jede natürliche Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden.
     1. Die Beitrittserklärung erfolgt in Schriftform gemäß (TODO: Nummer des letzten Paragraphen) gegenüber dem Vorstand. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Der Vorstand kann den Beitritt ohne Angabe von Gründen verweigern. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
@@ -22,6 +23,10 @@ Satzung des noch zu benennenden de-RSE Vereins
     1. Die Mitgliedschaft endet durch Austrittserklärung, durch Ausschluss, durch Tod einer natürlichen Personen oder durch Auflösung und Erlöschung von nicht natürlichen Personen.
     1. Der Austritt wird durch eine gemäß (TODO: Nummer des letzten Paragraphen) schriftliche Willenserklärung gegenüber dem Vorstand erklärt.
     1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt oder es den satzungsgemäßen Zielen des Vereins entgegenwirkt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form gemäß (TODO: Nummer des letzten Paragraphen) unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
+    1. Mit der Beitrittserklärung erkennt das Mitglied die Satzung und die Ordnungen von (TODO: Vereinsname) an.
+
+1. Aufnahmegebühren und Beiträge
+    1. Die Aufnahmegebühren und Beiträge werden von der Mitgliederversammlung festgelegt. Näheres regelt die Beitragsordnung. 
 
 1. Vereinsorgane
     1. Die Organe des Vereins sind:
