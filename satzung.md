@@ -52,6 +52,7 @@ Satzung des noch zu benennenden de-RSE Vereins
 1. Vereinsvorstand
     1. Der Vorstand besteht aus mindestens drei ordentlichen Mitgliedern: dem Vorstandsvorsitzenden, dem Schatzmeister und dem Schriftführer. Des Weiteren können bis zu drei Beisitzer in den Vorstand gewählt werden. Es kann auf Wunsch der Mitgliederversammlung auf eine Wahl der Beisitzer verzichtet werden.
     1. Vorstand im Sinne des §26 BGB sind der Vorstandsvorsitzender, Schatzmeister sowie der Schriftführer. Diese sind einzeln berechtigt, den Verein nach außen zu vertreten. Die Geschäftsordnung kann hierfür Einschränkungen festlegen.
+    1. Wählbar als Vorstandsmitglieder und Beisitzer sind alle volljährigen und geschäftsfähigen Mitglieder des Vereins.
     1. Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Näheres regelt die Geschäftsordnung.
     1. Vorstandsmitglieder können jederzeit von ihrem Amt zurücktreten.
     1. Bei Rücktritt oder andauernder Ausübungsunfähigkeit eines Vorstandsmitglieds ist der gesamte Vorstand neu zu wählen. Bis zur Wahl eines neuen Vorstands ist der bisherige Vorstand zur bestmöglichen Wahrnehmung seiner Aufgaben verpflichtet.
@@ -65,6 +66,7 @@ Satzung des noch zu benennenden de-RSE Vereins
     1. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war.
     1. Für die Satzungs- oder Geschäftsordnungsänderung ist eine Mehrheit von zwei Dritteln in der Mitgliederversammlung erforderlich.
     1. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.
+    1. Dringlichkeitsanträge auf Satzungsänderungen sind ausgeschlossen (TODO: Paragraph von MV).
 
 1. Vereinsauflösung und gemeinnützige Vermögensbildung
     1. Die Auflösung des Vereins muss von der Mitgliederversammlung mit einer Mehrheit von drei Vierteln beschlossen werden. Die Abstimmung ist nur möglich, wenn auf der Einladung zur Mitgliederversammlung als einziger Tagesordnungspunkt die Auflösung des Vereins angekündigt wurde und mindestens drei Viertel der Mitglieder vertreten sind. Ist die erforderliche Anzahl der Mitglieder nicht vertreten, so ist die Mitgliederversammlung erneut einzuberufen, die ohne Rücksicht auf die Zahl der vertretenen Mitglieder beschlussfähig ist.
