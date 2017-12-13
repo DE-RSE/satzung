@@ -59,8 +59,9 @@ Satzung des noch zu benennenden de-RSE Vereins
     1. Die Amtsdauer der Vorstandsmitglieder beträgt ein Jahr. Sie werden von der Mitgliederversammlung aus den ordentlichen Mitgliedern des Vereins gewählt. Es werden nacheinander Vorstandsvorsitzender, Schatzmeister und Schriftführer sowie falls gewünscht bis zu drei Beisitzer gewählt. Eine Wiederwahl ist beliebig oft zulässig.
     1. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter. Er kann diese Aufgabe einem Vorstandsmitglied übertragen.
     1. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung notwendiger Auslagen, deren Rahmen von der Geschäftsordnung festgelegt wird.
-    1. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden vom Schriftführer schriftlich gemäß (TODO: Nummer des letzten Paragraphen) einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind. Die Beschlüsse der Vorstandssitzung sind schriftlich zu protokollieren.
+    1. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden vom Schriftführer schriftlich gemäß (TODO: Nummer des letzten Paragraphen) einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind.
     1. Jedes Vorstandsmitglied hat bei Abstimmungen des Vorstands eine Stimme. Bei diesen Abstimmungen ist eine Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen nötig.
+    1. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die vom Schriftführer unterzeichnet werden. Mitgliedern kann Einsicht in die Protokolle gewährt werden.
 
 1. Satzungs- und Geschäftsordnungsänderung
     1. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war.
