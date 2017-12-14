@@ -23,4 +23,5 @@ Fassung vom xx. xx. 2017
     1. Auslagen des Vorstandes zur Verfolgung der Vereinszwecke werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
 1. Elektronische Schriftform
     1. Elektronische Dokumente im Sinne von (TODO: Nummer des letzten Paragraphen der Satzung) der Satzung sind mit PGP/GPG oder mit S/MIME signierte E-Mails. Jedes Mitglied kann beim Vorstand einen öffentlichen Schlüssel bzw. sein Zertifikat hinterlegen, dessen Signatur die jeweiligen E-Mails tragen müssen. Das Mitglied hat bei Kompromittierung des Schlüssels für Benachrichtigung des Vorstands zu sorgen.
+    1. Elektronische Dokumente im Sinne des letzten Absatzes genügen für alle als "schriftlich" bezeichneten Vorgänge in der Satzung.
    

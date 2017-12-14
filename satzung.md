@@ -17,7 +17,7 @@ Satzung des noch zu benennenden de-RSE Vereins
         - ...
 
 1. Mitgliedschaft
-    1. Ordentliches Mitglied des Vereins kann jede natürliche Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden.
+    1. Ordentliches Mitglied des Vereins kann jede natürliche Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden. Geschäftsunfähige Personen können nicht Mitglied werden.
     1. Die Beitrittserklärung erfolgt in Schriftform gemäß (TODO: Nummer des letzten Paragraphen) gegenüber dem Vorstand. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Der Vorstand kann den Beitritt ohne Angabe von Gründen verweigern. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
     1. Hat der Vorstand die Aufnahme abgelehnt, so kann der Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet.
     1. Die Mitgliedschaft endet durch Austrittserklärung, durch Ausschluss, durch Tod einer natürlichen Personen oder durch Auflösung und Erlöschung von nicht natürlichen Personen.
@@ -62,7 +62,7 @@ Satzung des noch zu benennenden de-RSE Vereins
     1. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung notwendiger Auslagen, deren Rahmen von der Geschäftsordnung festgelegt wird.
     1. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden vom Schriftführer schriftlich gemäß (TODO: Nummer des letzten Paragraphen) einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind.
     1. Jedes Vorstandsmitglied hat bei Abstimmungen des Vorstands eine Stimme. Bei diesen Abstimmungen ist eine Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen nötig.
-    1. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die vom Schriftführer unterzeichnet werden. Mitgliedern kann Einsicht in die Protokolle gewährt werden.
+    1. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die vom Schriftführer unterzeichnet werden. Mitgliedern muss auf Anfrage Einsicht in die Protokolle gewährt werden.
 
 1. Satzungs- und Geschäftsordnungsänderung
     1. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war.
