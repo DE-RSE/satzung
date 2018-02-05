@@ -1,5 +1,7 @@
 # Gemeinnützigkeit [[vereinsbesteuerung.info](http://www.vereinsbesteuerung.info/leitfaden_gem.htm), Gesetze, [Bayerischer Landes-Sportverband](https://blsv.de/), [Landessportbund Nordrhein-Westfalen](http://www.vibss.de/)]
 
+Für Berlin gibt es auch den [berliner ratgeber 'vereine und steuern'](https://www.berlin.de/sen/finanzen/dokumentendownload/steuern/informationen-fuer-steuerzahler-/vereine/ratgeber_vereine_2014.pdf).
+
 ## Einige konkrete Voraussetzungen [[AO §51ff.](https://www.gesetze-im-internet.de/ao_1977/__51.html) u.a.]
 
 - **ausschließlich und unmittelbar (eigene Verwirklichung!) gemeinnützige Zwecke**
