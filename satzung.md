@@ -1,15 +1,15 @@
 Satzung des noch zu benennenden de-RSE Vereins
 
 1. Name, sitz, Geschäftsjahr
-    1. Der Verein trägt den Namen "NAME" und ist in das Vereinsregister bei ... eingetragen.
-    1. Der Verein hat seinen Sitz in .... Das Geschäftsjahr entspricht dem Kalenderjahr.
+    1. Der Verein trägt den Namen "NAME" und ist in das Vereinsregister beim Amstgericht Charlottenburg von Berlin eingetragen.
+    1. Der Verein hat seinen Sitz in Berlin. Das Geschäftsjahr entspricht dem Kalenderjahr.
 
 1. Gemeinnützigkeit
     1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnittes "Steuerbegünstigte Zwecke" der Abgabenordnung.
     1. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
     1. Der Verein darf Mittel an andere Körperschaften im Sinne des § 51 Abs. 1 Satz 2 der Abgabenordnung sowie an juristische Personen des öffentlichen Rechts zu satzungsgemäßen Zwecken weitergeben; die Mittelweitergabe an im Inland ansässige Körperschaften des privaten Rechts setzt voraus, dass diese ihrerseits wegen Gemeinnützigkeit steuerbegünstigt sind.
     1. Die Mitglieder erhalten in dieser Eigenschaft keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
-    1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung.
+    1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an an den Verein "Free Software Foundation Europe e.V." mit Sitz in Hamburg, der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
 
     
 1. Zweck des Vereines und Zweckverwirklichung
