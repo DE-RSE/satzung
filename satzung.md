@@ -6,15 +6,17 @@ Satzung des noch zu benennenden de-RSE Vereins
 
 1. Gemeinnützigkeit
     1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnittes "Steuerbegünstigte Zwecke" der Abgabenordnung.
-    1. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die Mittel des Vereins werden ausschließlich zu den satzungsgemäßen Zwecken verwendet.
+    1. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
     1. Der Verein darf Mittel an andere Körperschaften im Sinne des § 51 Abs. 1 Satz 2 der Abgabenordnung sowie an juristische Personen des öffentlichen Rechts zu satzungsgemäßen Zwecken weitergeben; die Mittelweitergabe an im Inland ansässige Körperschaften des privaten Rechts setzt voraus, dass diese ihrerseits wegen Gemeinnützigkeit steuerbegünstigt sind.
     1. Die Mitglieder erhalten in dieser Eigenschaft keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+    1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung.
+
     
 1. Zweck des Vereines und Zweckverwirklichung
-    1. Grundlegender Zweck des Vereins ist die Förderung
-        - erstens
-        - zweitens
-        - ...
+    1. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, sowie die Berufsbildung einschließlich der Studentenhilfe.
+    1. Der Satzungszweck wird verwirklicht insbesondere durch
+        - Durchführung wissenschaftlicher Veranstaltungen zum Themenkomplex Software in der Wissenschaft
+        - Erstellung und Publikation (auch elektronisch) von Informations- und Schulungsmaterial zum Themenkomplex Software in der Wissenschaft
 
 1. Mitgliedschaft
     1. Ordentliches Mitglied des Vereins kann jede natürliche Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden. Geschäftsunfähige Personen können nicht Mitglied werden.
