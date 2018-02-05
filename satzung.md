@@ -17,6 +17,7 @@ Satzung des noch zu benennenden de-RSE Vereins
     1. Der Satzungszweck wird verwirklicht insbesondere durch
         - Durchführung wissenschaftlicher Veranstaltungen zum Themenkomplex Software in der Wissenschaft
         - Erstellung und Publikation (auch elektronisch) von Informations- und Schulungsmaterial zum Themenkomplex Software in der Wissenschaft
+        - Finanzielle Förderung von Forschungsvorhaben zum Thema Software in der Wissenschaft
 
 1. Mitgliedschaft
     1. Ordentliches Mitglied des Vereins kann jede natürliche Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden. Geschäftsunfähige Personen können nicht Mitglied werden.
