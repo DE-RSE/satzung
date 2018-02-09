@@ -1,4 +1,4 @@
-> Das Ziel des Vereins ist die Förderung von Wissenschaft und Forschung sowie die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe im Bereich wissenschaftliche Software und ihre Entwicklung, hierbei ins Besondere:
+> Ziel des Vereins ist die Förderung von Wissenschaft und Forschung sowie die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe im Bereich "wissenschaftliche Software und ihre Entwicklung", hierbei insbesondere:
 > 
 > - die Durchsetzung der Anerkennung von Softwareentwicklung als wissenschaftlicher Leistung und von wissenschaftlicher Software als Basis von Veröffentlichungen und Forschungsdaten und als deren Bindeglied;
 > - die Etablierung und Stärkung der Rolle und Tätigkeitsbezeichnung des Research Software Engineer (RSE) in der deutschen Wissenschaftslandschaft und die Steigerung der Attraktivität dieses Tätigkeitsfeldes;
