@@ -22,3 +22,6 @@ Beinhaltet sowohl technische Infrastruktur als auch Software und duerfte durch s
 
 # Public Relations
 Dieses Ressort behandelt Recognition von RSE als Personengruppe, deren wissenschaftsrelevante Leistung und die Taetigkeitsbeschreibung(en) derselben. Siehe auch Vereinszweck.
+
+# Aus- und Weiterbildung
+Bündelung aller Aktivitäten zur Qualifizierung; Aufbau von Verbindungen zu Hochschulen/Universitäten
