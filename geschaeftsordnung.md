@@ -6,7 +6,7 @@ Fassung vom xx. xx. 2017
     1. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung gemäß Satzung §(TODO) beträgt 25% der ordentlichen Mitglieder.
 1. Aufgaben des Schatzmeisters
     1. Der Schatzmeister hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
-    1. Der Schatzmeister legt nach Eintragung des Vereins in das Vereinsregister ein Konto auf den Namen des Vereins an und verwaltet dort das Vereinsvermögen.
+    1. Der Schatzmeister legt nach Eintragung des Vereins in das Vereinsregister ein Konto auf den Namen des Vereins an und verwaltet dort das Vereinsvermögen. (zu regeln: wer ist verfügungsberechtigt? - gesetzliche Regelung: alle Vorstandsmitglieder gemeinsam oder in Satzung/Geschäftsordnung festlegen: z.B. Schatzmeister allein, Schatzmeister und Vorsitzender gemeinsam, ...) 
     1. Der Schatzmeister informiert die Vereinsmitglieder mindestens vierteljährlich über den Kassenstand. Einnahmen und Ausgaben über 100e sind dabei einzeln aufzulisten.
     1. Für laufende Einnahmen und Ausgaben führt der Schatzmeister eine Bargeldkasse. Überschüssige Bargeldsummen werden von ihm regelmäßig auf dem Vereinskonto abgelegt.
     1. Für Bareingänge stellt der Schatzmeister eine formgerechte Quittung in doppelter Ausfertigung aus, davon eine für den Einzahler.
