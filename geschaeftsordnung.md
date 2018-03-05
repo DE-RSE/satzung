@@ -1,9 +1,14 @@
-Geschäftsordnung des (noch zu bennenenden de-RSE) Vereins
+Geschäftsordnung von de-RSE e.V.
 
 Fassung vom xx. xx. 2017
 
+1. Namesführung 
+    1. Für die Benennung des Vereins in der Außenkommunikation wird folgende Bezeichnung verwendet: "de-RSE e.V. - Gesellschaft für Forschungssoftware"
+    1. Nach erfolgter Abkürzungseinführung kann der Verein auch mit de-RSE bezeichnet werden.
+
 1. Beschlussfähigkeit der Mitgliederversammlung
     1. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung gemäß Satzung §(TODO) beträgt 25% der ordentlichen Mitglieder.
+
 1. Aufgaben des Schatzmeisters
     1. Der Schatzmeister hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
     1. Der Schatzmeister legt nach Eintragung des Vereins in das Vereinsregister ein Konto auf den Namen des Vereins an und verwaltet dort das Vereinsvermögen. (zu regeln: wer ist verfügungsberechtigt? - gesetzliche Regelung: alle Vorstandsmitglieder gemeinsam oder in Satzung/Geschäftsordnung festlegen: z.B. Schatzmeister allein, Schatzmeister und Vorsitzender gemeinsam, ...) 
