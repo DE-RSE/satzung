@@ -20,7 +20,7 @@ https://blog.datacite.org/software-citation-workflows/
 # High Performance Computing
 Beinhaltet sowohl technische Infrastruktur als auch Software und duerfte durch seine Bedeutung in Stellenausschreibungen ein eigenes Ressort bedingen.
 
-# Public Relations
+# Public Relations, Mitgliederbetreuung
 Dieses Ressort behandelt Recognition von RSE als Personengruppe, deren wissenschaftsrelevante Leistung und die Taetigkeitsbeschreibung(en) derselben. Siehe auch Vereinszweck.
 
 # Aus- und Weiterbildung

@@ -1,8 +1,10 @@
-Satzung von de-RSE
+Satzung des de-RSE e.V.
 
 1. Name, Sitz, Geschäftsjahr
-    1. Der Verein trägt den Namen "de-RSE" und ist in das Vereinsregister beim Amstgericht Charlottenburg von Berlin eingetragen. Er soll den Zusatz "e.V." führen
-    1. de-RSE hat seinen Sitz in Berlin. Das Geschäftsjahr entspricht dem Kalenderjahr.
+    1. Der Verein trägt den Namen de-RSE e.V.
+    1. de-RSE hat seinen Sitz in Berlin. 
+    1. Er ist in das Vereinsregister beim Amstgericht Charlottenburg von Berlin eingetragen.
+    1. Das Geschäftsjahr entspricht dem Kalenderjahr.
 
 1. Gemeinnützigkeit
     1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnittes "Steuerbegünstigte Zwecke" der Abgabenordnung.
