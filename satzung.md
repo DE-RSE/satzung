@@ -14,24 +14,28 @@ Satzung des de-RSE e.V.
     1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an an den Verein "Free Software Foundation Europe e.V." mit Sitz in Hamburg, der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
 
     
-1. Zweck des Vereines und Zweckverwirklichung
-    1. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, sowie die Berufsbildung einschließlich der Studentenhilfe.
+1. Vereinszweck
+    1. Zweck des Vereins ist die Förderung der Wissenschaft im Bereich von Forschungssoftware und deren Entwicklung.
     1. Der Satzungszweck wird verwirklicht insbesondere durch
-        - Durchführung wissenschaftlicher Veranstaltungen zum Themenkomplex Software in der Wissenschaft
-        - Erstellung und Publikation (auch elektronisch) von Informations- und Schulungsmaterial zum Themenkomplex Software in der Wissenschaft
+        - Bereitstellung eines Forums für den Austausch von den in der bzw. für die Forschung entwickelnden Informatikern, Softwareentwicklern, RSEs und Wissenschaftlern
+        - Bereitstellung von Informationen und Beratung von Wissenschaftlern, RSEs, Öffentlichkeit ... , Wissenschaftsorganisationen, Forschungsförderern und Unternehmen
         - Förderung von Forschungsvorhaben zum Themenkomplex Software in der Wissenschaft
+        - Etablierung von Programmen und Beantragung von Fördermitteln für die Verwirklichung der Ziele des Vereins
 
-1. Mitgliedschaft
-    1. Ordentliches Mitglied des Vereins kann jede natürliche Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden. Geschäftsunfähige Personen können nicht Mitglied werden.
+
+1. Mitgliedschaft und Beiträge
+    1. Ordentliches Mitglied des Vereins kann jede voll geschäftsfähige natürliche Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden.
     1. Die Beitrittserklärung erfolgt in Schriftform gemäß (TODO: Nummer des letzten Paragraphen) gegenüber dem Vorstand. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Der Vorstand kann den Beitritt ohne Angabe von Gründen verweigern. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
-    1. Hat der Vorstand die Aufnahme abgelehnt, so kann der Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet.
+    1. Hat der Vorstand die Aufnahme abgelehnt, so kann der Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet. Das betroffene Bewerber ist zu der betreffenden Sitzung einzuladen und anzuhören, nimmt an der Abstimmung aber nicht teil.
+    1. Mit der Beitrittserklärung erkennt das Mitglied die Satzung und die Ordnungen von (TODO: Vereinsname) an.
+    1. Die Aufnahmegebühren und Beiträge werden von der Mitgliederversammlung festgelegt. Näheres regelt die Geschäftsordnung. 
+
+
+1. Beendigung der Mitgliedschaft
     1. Die Mitgliedschaft endet durch Austrittserklärung, durch Ausschluss, durch Tod einer natürlichen Personen oder durch Auflösung und Erlöschung von nicht natürlichen Personen.
     1. Der Austritt wird durch eine gemäß (TODO: Nummer des letzten Paragraphen) schriftliche Willenserklärung gegenüber dem Vorstand erklärt.
-    1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt oder es den satzungsgemäßen Zielen des Vereins entgegenwirkt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in schriftlicher Form gemäß (TODO: Nummer des letzten Paragraphen) unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
-    1. Mit der Beitrittserklärung erkennt das Mitglied die Satzung und die Ordnungen von (TODO: Vereinsname) an.
-
-1. Aufnahmegebühren und Beiträge
-    1. Die Aufnahmegebühren und Beiträge werden von der Mitgliederversammlung festgelegt. Näheres regelt die Beitragsordnung. 
+    1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt oder es den satzungsgemäßen Zielen des Vereins entgegenwirkt.
+    1. Gegen den in Schriftform mitzuteilenden Ausschluss kann das Mitglied innerhalb eines Monats die Mitgliederversammlung anrufen. Diese entscheidet endgültig mit Zweidrittelmehrheit der anwesenden Mitglieder. Das betroffene Mitglied ist zu der betreffenden Sitzung einzuladen und anzuhören, nimmt an der Abstimmung aber nicht teil.
 
 1. Vereinsorgane
     1. Die Organe des Vereins sind:
