@@ -1,10 +1,6 @@
-# Satzung des (zukünftigen) de-RSE Vereins
+# Satzung von de-RSE e.V.
 
-Im Moment beinhaltet dieses Repository nicht die endgültige Version, sondern wird zur Sammlung von Ideen und zur Vorbereitung einer Satzung benutzt.
+Dieses Repository beinhaltet die endgültige Version der Satzung von de-RSE e.V.: `de-RSE-e.V._Satzung_2019-01-07.pdf`.
 
-- [Referenzsatzungen](https://github.com/DE-RSE/satzung/blob/master/referenzen.md)
-- [Satzungsentwurf](https://github.com/DE-RSE/satzung/blob/master/satzung.md)
-
-## Inspirationen
-
-- [software_vereine.csv](software_vereine.csv) ist eine Liste von Vereinen mit Software im Namen. Vielleicht nützlich zur konkreten Namensfindung
+In der Vergangenheit wurde dieses Projekt zur Sammlung von Ideen und Entwurf genutzt.
+Die entsprechenden Dateien finden sich im Ordner `Entwurf_und_Recherche`.
