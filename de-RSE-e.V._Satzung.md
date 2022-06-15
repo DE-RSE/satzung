@@ -1,4 +1,6 @@
-# Satzung des de-RSE e.V.
+---
+title: Satzung des de-RSE e.V.
+---
 
 **Präambel**
 
