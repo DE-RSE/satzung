@@ -2,9 +2,11 @@
 title: Geschäftsordnung
 ---
 
-\pagenumbering{gobble}
+\pagenumbering{arabic}
 
-Geschäftsordnung von de-RSE e.V.
+Geschäftsordnung von de-RSE e.V. (<https://de-rse.org/>)
+
+Veröffentlichungsort: <https://github.com/DE-RSE/satzung/>
 
 # Namensführung
 
