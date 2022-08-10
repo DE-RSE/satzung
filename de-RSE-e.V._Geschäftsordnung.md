@@ -10,26 +10,26 @@ Veröffentlichungsort: <https://github.com/DE-RSE/satzung/>
 
 # Namensführung
 
-i.  Für die Benennung des Vereins in der Außenkommunikation wird folgende Bezeichnung verwendet: \"de-RSE e.V. - Gesellschaft für Forschungssoftware\"
+i. Für die Benennung des Vereins in der Außenkommunikation wird folgende Bezeichnung verwendet: \"de-RSE e.V. - Gesellschaft für Forschungssoftware\"
 i. Nach erfolgter Einführung der Abkürzung kann der Verein auch mit de-RSE bezeichnet werden.
 
 # Beschlussfähigkeit der Mitgliederversammlung
 
-i.  Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung gemäß Satzung §7 beträgt 25% der ordentlichen Mitglieder.
+i. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung gemäß Satzung §7 beträgt 25% der ordentlichen Mitglieder.
 i. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmerzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmerzahl beschlussfähig.
 
 # Aufgaben des Schatzmeisters
 
-i.  Der Schatzmeister hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
+i. Der Schatzmeister hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.
 i. Der Schatzmeister legt nach Eintragung des Vereins in das Vereinsregister ein Konto auf den Namen des Vereins an und verwaltet dort das Vereinsvermögen. Verfügungsberechtigt ist jedes geschäftsführende Vorstandsmitglied einzeln.
 i. Der Schatzmeister informiert die Vereinsmitglieder mindestens vierteljährlich über den Kassenstand. Einnahmen und Ausgaben über 100€ sind dabei einzeln aufzulisten.
 i. Für laufende Einnahmen und Ausgaben führt der Schatzmeister eine Bargeldkasse. überschüssige Bargeldsummen werden von ihm regelmäßig auf dem Vereinskonto abgelegt.
-i.  Für Bareingänge stellt der Schatzmeister eine formgerechte Quittung in doppelter Ausfertigung aus, davon eine für den Einzahler.
+i. Für Bareingänge stellt der Schatzmeister eine formgerechte Quittung in doppelter Ausfertigung aus, davon eine für den Einzahler.
 i. Der Schatzmeister legt ein geeignetes Vermögensregister an, das nach den Regeln der einfachen Buchführung zu führen ist und aus folgenden Teilen besteht:
     - Kassenbuch für die Bargeldkasse
     - Hauptbuch für das Vereinskonto
     - Inventarliste für Vermögensgegenstände
-i.  Jede einzelne Ausgabe muss belegt werden. Jeder Beleg muss von dem Vereinsmitglied, das die Ausgabe getätigt hat, umgehend beim Schatzmeister eingereicht werden.
+i. Jede einzelne Ausgabe muss belegt werden. Jeder Beleg muss von dem Vereinsmitglied, das die Ausgabe getätigt hat, umgehend beim Schatzmeister eingereicht werden.
 i. Sollten Güter zugunsten des Vereins eingehen, sind diese im Vermögensregister einzutragen. Nach Genehmigung durch den Vorstand hat der Schatzmeister ein Aufbewahrungsprotokoll anzufertigen, ein Exemplar für den Besorger, eins zur Dokumentation beim Schatzmeister.
 i. Der Schatzmeister führt die Liste der Vereinsmitglieder. Periodisch werden von ihm die sich ergebenden Veränderungen in den Mitgliederzahlen den Vereinsmitgliedern mitgeteilt.
 i. Für den Jahresabschluss oder bei Wechsel des Schatzmeisters ist durch ihn eine Einnahme-Überschuss-Rechnung zu erstellen.
