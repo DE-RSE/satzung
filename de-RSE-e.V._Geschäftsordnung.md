@@ -36,7 +36,7 @@ i. Für den Jahresabschluss oder bei Wechsel des Schatzmeisters ist durch ihn ei
 
 # Erstattung der Auslagen des Vorstands und im Vereinsauftrag tätiger Personen
 
-i. Angefallene und nachgewiesene Auslagen des Vorstandes und weiterer Personen die im Vereinsauftrag zur Verfolgung der Vereinszwecke tätig sind werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
+i. Angefallene und nachgewiesene Auslagen des Vorstandes und weiterer Personen, die im Vereinsauftrag zur Verfolgung der Vereinszwecke tätig sind, werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
 i. Reisen
    i. Erstattet werden können Fahrtkosten, Reisenebenkosten, Übernachtungskosten, Teilnahmebeiträge und Mehraufwendungen für Verpflegung bei Vorlage der entsprechenden Belege.
    Eine Nutzung des eigenen PKW/Motorrad ist nur mit vorherigem Beschluss des Vorstands gestattet und wird maximal bis zu den steuerlichen Höchstsätzen erstattet.
