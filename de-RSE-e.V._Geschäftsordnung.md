@@ -76,15 +76,12 @@ i. Über §8.i. hinausgehende Repräsentation des Vereins bedarf der Zustimmung 
 
 # Wahlen
 
-i. Die Mitgliederversammlung wählt eine Wahlleitung, die nicht dem Vorstand angehört und nicht selbst zur Wahl steht.
+i. Die Mitgliederversammlung beschließt eine Wahlleitung, die nicht dem Vorstand angehört und nicht selbst zur Wahl steht.
    Die Amtszeit der Wahlleitung beginnt mit der Wahl des jeweiligen Amts durch die Versammlung und endet mit dem Ende der Versammlung, durch Rücktritt oder Abberufung durch die Versammlung.
-   Bei Rücktritt der Wahlleitung ist unverzüglich eine Nachfolge zu wählen.
-   Falls die Wahlleitung für ein Amt selbst kandidiert, kann die Wahlleitung für diese Wahl eine Vertretung auf Zuruf bestimmen, insofern kein Antrag auf ordentliche Wahl einer vertretenden Wahlleitung gestellt wird.
+   Bei Rücktritt der Wahlleitung ist unverzüglich eine Nachfolge zu beschließen.
 i. Die Wahlleitung übernimmt folgende Aufgaben:
     - Feststellen der Zahl der wahlberechtigten Mitglieder.
     - Prüfung, ob die Kandidaten die satzungsmäßigen Voraussetzungen für die Wählbarkeit (passives Wahlrecht) haben.
     - Die Auszählung der Stimmen.
-      Ungültige Stimmen und Enthaltungen werden nicht gezählt.
-      Ein Kandidat ist gewählt, wenn er die Mehrheit der abgegebenen Stimmen erhält, die nicht ungültig oder Stimmenthaltungen sind.
     - Feststellen, dass die Kandidaten die Wahl annehmen.
     - Feststellung und Bekanntgabe des Wahlergebnisses.
