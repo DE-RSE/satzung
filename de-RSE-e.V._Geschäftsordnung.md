@@ -36,15 +36,15 @@ i. Für den Jahresabschluss oder bei Wechsel des Schatzmeisters ist durch ihn ei
 
 # Erstattung der Auslagen des Vorstands
 
-i.  Auslagen des Vorstandes zur Verfolgung der Vereinszwecke werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
+i. Auslagen des Vorstandes zur Verfolgung der Vereinszwecke werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
 
 # Elektronische Textform
 
-i.  Elektronische Dokumente im Sinne von §11 der Satzung sind mit PGP/GPG oder mit S/MIME signierte E-Mails und deren Anhänge. Jedes Mitglied kann beim Vorstand einen öffentlichen Schlüssel bzw. sein Zertifikat hinterlegen, dessen Signatur die jeweiligen E-Mails tragen müssen. Das Mitglied hat bei Kompromittierung des Schlüssels für Benachrichtigung des Vorstands zu sorgen.
+i. Elektronische Dokumente im Sinne von §11 der Satzung sind mit PGP/GPG oder mit S/MIME signierte E-Mails und deren Anhänge. Jedes Mitglied kann beim Vorstand einen öffentlichen Schlüssel bzw. sein Zertifikat hinterlegen, dessen Signatur die jeweiligen E-Mails tragen müssen. Das Mitglied hat bei Kompromittierung des Schlüssels für Benachrichtigung des Vorstands zu sorgen.
 
 # Beiträge
 
-i.  Der Mitgliedsbeitrag für ordentliche Mitglieder beträgt 60 EUR pro Kalenderjahr. Für Studierende, Schüler, Arbeitslose, Umschüler, Rentner und Menschen mit Behinderung beträgt der jährliche Mitgliedsbeitrag nach Vorlage eines geeigneten Nachweises 30 EUR.
+i. Der Mitgliedsbeitrag für ordentliche Mitglieder beträgt 60 EUR pro Kalenderjahr. Für Studierende, Schüler, Arbeitslose, Umschüler, Rentner und Menschen mit Behinderung beträgt der jährliche Mitgliedsbeitrag nach Vorlage eines geeigneten Nachweises 30 EUR.
 i. Die Höhe des Mitgliedsbeitrags für Fördermitglieder ist ihnen freigestellt.
 i. Das Beitragsjahr beginnt mit dem Kalenderjahr des Eintritts des Mitglieds. Der Beitrag ist im Voraus für das gesamte Beitragsjahr fällig.
 i. Der Beitrag ist durch Überweisung auf das Vereinskonto zu bezahlen.
@@ -53,16 +53,16 @@ i. Wahlberechtigt sind nur Vereinsmitglieder, die nicht in Verzug mit den Beitra
 
 # Online-Mitgliederversammlung
 
-i.  Eine Mitgliederversammlungkann entweder zusätzlich oder alleinstehend über eine Online-Konferenz abgehalten werden.
+i. Eine Mitgliederversammlungkann entweder zusätzlich oder alleinstehend über eine Online-Konferenz abgehalten werden.
 i. Kann an einer Mitgliederversammlung nur durch eine Online-Konferenz und nicht persönlich teilgenommen werden, so muss dies in der Einladung zur Mitgliederversammlung angekündigt werden.
 i. Eine Mitgliederversammlung, die zur Auflösung des Vereins einberufen wird (§ 10.a der Satzung) , kann nicht allein über eine Online-Konferenz abgehalten werden. Ist diese Mitgliederversammlung nicht beschlussfähig, so kann die erneute einzuberufende Mitgliederversammlung allein als Online-Konferenz durchgeführt werden.
 i. Der Versammlungsleiter ist gleichzeitig Moderator der Online-Konferenz. Er kann die Moderation und die Aufgabe der Stimmauszählung von Teilnehmern der Online-Konferenz an einen Online-Versammlungsleiter übertragen.
-i.  Die Einladung zur Online-Konferenz erfolgt im Falle einer alleinstehenden Online-Mitgliederversammlung an alle Mitglieder, im Falle einer zusätzlichen Online-Konferenz zur Offline-Mitgliederversammlung auf Wunsch eines Mitglieds. Die Einladung zur Offline-Mitgliederversammlung muss hierfür entsprechende Kontaktadressen und Fristen beinhalten.
+i. Die Einladung zur Online-Konferenz erfolgt im Falle einer alleinstehenden Online-Mitgliederversammlung an alle Mitglieder, im Falle einer zusätzlichen Online-Konferenz zur Offline-Mitgliederversammlung auf Wunsch eines Mitglieds. Die Einladung zur Offline-Mitgliederversammlung muss hierfür entsprechende Kontaktadressen und Fristen beinhalten.
 i. Mitglieder, die über eine Online-Konferenz an einer Mitgliederversammlung teilnehmen wollen, hinterlegen einen öffentlichen Schlüssel bzw. Zertifikat beim Vorstand, um an Abstimmungen per E-Mail teilnehmen zu können. Die Einladung zur Mitgliederversammlung muss hierfür die entsprechenden Fristen und Anleitungen beinhalten.
 i. Die Zugangsdaten zur Online-Konferenz werden in Textform nach §11 der Satzung zugestellt.
-i. Die Online-Konferenz ist nur für eingeladene Mitglieder einsehbar (Passwo rtschutz). Sie muss einen verschlüsselten Datentransfer zwischen Teilnehmer und Server verwenden. Die Verschlüsselung muss dem Stand der Technik entsprechen.
+i. Die Online-Konferenz ist nur für eingeladene Mitglieder einsehbar (Passwortschutz). Sie muss einen verschlüsselten Datentransfer zwischen Teilnehmer und Server verwenden. Die Verschlüsselung muss dem Stand der Technik entsprechen.
 i. Der Identitätsnachweis erfolgt durch Verwendung des Passworts zur Online-Konferenz und die Verwendung des Klarnamens durch die Teilnehmer. Ein Teilnehmer der Online-Konferenz zu Beginn der Versammlung wird für die gesamte Versammlung als anwesend gezählt.
-i.  Ist keine eindeutige Identifikation möglich, so kann die Versammlungsleitung nicht eindeutig identifizierbare Teilnehmer der Online-Konferenz von der Mitgliederversammlung ausschließen.
+i. Ist keine eindeutige Identifikation möglich, so kann die Versammlungsleitung nicht eindeutig identifizierbare Teilnehmer der Online-Konferenz von der Mitgliederversammlung ausschließen.
 i. Die Online-Konferenz muss mindestens über eine Tonübertragung verfügen. Sie sollte auch über eine Chat-Funktion verfügen, die jedoch nicht als alleiniger Kommunikationsweg vorgesehen ist.
 i. Die Stimmabgabe von Teilnehmern der Online-Konferenz muss eine eindeutige Identifizierbarkeit gewährleisten. Das genaue Prozedere gibt der Versammlungsleiter zu Beginn der Mitgliederversammlung bekannt. Der (Online-)Versammlungsleiter sammelt die über die Online-Konferenz abgegebenen Stimmen und teilt diese der Mitgliederversammlung mit.
 i. Eine geheime Abstimmung ist bei einer Teilnahme an der Online-Konferenz nur eingeschränkt möglich. Die Teilnehmer akzeptieren dies. Die Versammlungsleitung gibt das Prozedere geheimer Abstimmungen für die Sitzung zu Beginn derselben bekannt.
@@ -72,5 +72,5 @@ i. Die Online-Konferenz wird nicht aufgezeichnet.
 
 # Repräsentation des Vereins
 
-i.  Jedes ordentliche Vereinsmitglied hat das Recht, sich als \"Mitglied von de-RSE e.V. - Gesellschaft für Forschungssoftware\'\' zu bezeichnen.
+i. Jedes ordentliche Vereinsmitglied hat das Recht, sich als \"Mitglied von de-RSE e.V. - Gesellschaft für Forschungssoftware\'\' zu bezeichnen.
 i. Über §8.i. hinausgehende Repräsentation des Vereins bedarf der Zustimmung des Vereinsvorstands.
