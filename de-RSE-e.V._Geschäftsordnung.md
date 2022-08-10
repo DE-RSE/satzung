@@ -73,3 +73,10 @@ i. Die Online-Konferenz wird nicht aufgezeichnet.
 
 i. Jedes ordentliche Vereinsmitglied hat das Recht, sich als \"Mitglied von de-RSE e.V. - Gesellschaft für Forschungssoftware\'\' zu bezeichnen.
 i. Über §8.i. hinausgehende Repräsentation des Vereins bedarf der Zustimmung des Vereinsvorstands.
+
+# Checklisten
+
+## Mitgliederversammlung
+
+i. Save-the-date Email
+   i. Die Frist zur Einreichung von Tagesordnungspunkten liegt notwendigerweise vor der Frist zur Einladung zur Mitgliederversammlung, weil letztere die Tagesordnungspunkte nennen muss. Daher soll die Terminbekanntgabe ("save the date") einen deutlichen Hinweis auf die Frist zur Einreichung von Tagesordnungspunkten enhalten.
