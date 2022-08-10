@@ -48,7 +48,7 @@ i.  Der Mitgliedsbeitrag für ordentliche Mitglieder beträgt 60 EUR pro Kalende
 i. Die Höhe des Mitgliedsbeitrags für Fördermitglieder ist ihnen freigestellt.
 i. Das Beitragsjahr beginnt mit dem Kalenderjahr des Eintritts des Mitglieds. Der Beitrag ist im Voraus für das gesamte Beitragsjahr fällig.
 i. Der Beitrag ist durch Überweisung auf das Vereinskonto zu bezahlen.
-i.  Auf Antrag kann der Vorstand in begründeten Ausnahmefällen für einzelne Mitglieder Ausnahmen von dieser Beitragsordnung beschließen.
+i. Auf Antrag kann der Vorstand in begründeten Ausnahmefällen für einzelne Mitglieder Ausnahmen von dieser Beitragsordnung beschließen.
 i. Wahlberechtigt sind nur Vereinsmitglieder, die nicht in Verzug mit den Beitragszahlungen sind. Um Probleme am Wahltag zu vermeiden, müssen Beitragszahlungen spätestens drei Werktage vor der Wahl eingegangen sein.
 
 # Online-Mitgliederversammlung
