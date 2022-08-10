@@ -96,8 +96,8 @@ i. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die vom Sch
 i. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war.
 i. Für Satzungs- oder Geschäftsordnungsänderungen ist eine Mehrheit von zwei Dritteln in der Mitgliederversammlung erforderlich.
 i. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.
-i. Der Vorstand wird ermächtigt Satzungs- oder Geschäftsordnungsänderungen vorzunehmen wenn lediglich sprachliche oder redaktionelle Veränderungen vorgenommen werden (zum Beispiel Formatierung, Tippfehler oder Änderung von Satzzeichen) und die Satzung in ihrem Inhalt unverändert bestehen bleibt.
-   Diese Änderungen bedarfen eines Vorstandsbeschlusses und müssen auf der nächsten Mitgliederversammlung mitgeteilt werden.
+i. Der Vorstand wird ermächtigt, Satzungs- oder Geschäftsordnungsänderungen vorzunehmen, wenn lediglich sprachliche oder redaktionelle Veränderungen vorgenommen werden (zum Beispiel Formatierung, Tippfehler oder Änderung von Satzzeichen) und die Satzung in ihrem Inhalt unverändert bestehen bleibt.
+   Diese Änderungen bedürfen eines Vorstandsbeschlusses und müssen auf der nächsten Mitgliederversammlung mitgeteilt werden.
 i. Dringlichkeitsanträge nach § 7.v auf Satzungsänderungen sind ausgeschlossen.
 
 # Vereinsauflösung und gemeinnützige Vermögensbildung
