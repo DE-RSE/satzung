@@ -82,12 +82,9 @@ i. Wählbar als Vorstandsmitglieder sind alle volljährigen und geschäftsfähig
 i. Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Näheres regelt die Geschäftsordnung.
 i. Vorstandsmitglieder können jederzeit von ihrem Amt zurücktreten.
 i. Bei Rücktritt oder andauernder Ausübungsunfähigkeit eines Vorstandsmitglieds ist der gesamte Vorstand neu zu wählen. Bis zur Wahl eines neuen Vorstands ist der bisherige Vorstand zur bestmöglichen Wahrnehmung seiner Aufgaben verpflichtet.
-i. Die Amtsdauer der Vorstandsmitglieder beträgt ein Jahr.
-   Sie werden von der Mitgliederversammlung aus den ordentlichen Mitgliedern des Vereins gewählt.
-   Es werden nacheinander Vorstandsvorsitzender, stellvertretender Vorstandsvorsitzender, Schatzmeister, stellvertretender Schatzmeister, Schriftführer und stellvertretender Schriftführer gewählt.
-   Eine Wiederwahl ist zulässig.
-   Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt worden sind.
-   Erreicht keiner der Kandidaten im ersten Wahlgang die erforderliche Mehrheit, findet eine Stichwahl zwischen den Kandidaten statt, welche die beiden höchsten Stimmzahlen erreicht haben.
+i. Die Amtsdauer der Vorstandsmitglieder beträgt ein Jahr. Sie werden von der Mitgliederversammlung aus den ordentlichen Mitgliedern des Vereins gewählt. Es werden nacheinander Vorstandsvorsitzender, stellvertretender Vorstandsvorsitzender, Schatzmeister, stellvertretender Schatzmeister, Schriftführer und stellvertretender Schriftführer gewählt. Eine Wiederwahl ist zulässig. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt worden sind.
+i. Ein Kandidat ist gewählt, wenn er die Mehrheit der abgegebenen Stimmen erhält, die nicht ungültig oder Stimmenthaltungen sind (einfache Mehrheit).
+   Erreicht keiner der Kandidaten im ersten Wahlgang die erforderliche Mehrheit, findet eine Stichwahl zwischen den Kandidaten statt, welche die beiden höchsten Stimmenzahlen erreicht haben.
    Bei gleicher Stimmenzahl in der Stichwahl kann auf Antrag die Mitgliederversammlung ein dritter Wahlgang durchgeführt werden, bei dem alle ursprünglichen Kandidaten zu Wahl stehen und der Kandidat mit den meisten Stimmen gewinnt (relative Mehrheit).
    Die Vorstandsmitglieder sind wirksam gewählt, wenn der gewählte Kandidat das Amt angenommen hat.
 i. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter. Er kann diese Aufgabe einem Vorstandsmitglied übertragen.
