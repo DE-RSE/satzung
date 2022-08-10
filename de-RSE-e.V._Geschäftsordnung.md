@@ -36,14 +36,13 @@ i. Für den Jahresabschluss oder bei Wechsel des Schatzmeisters ist durch ihn ei
 
 # Erstattung der Auslagen des Vorstands und im Vereinsauftrag tätiger Personen
 
-i. Angefallene und nachgewiesene Auslagen des Vorstandes und weiterer Personen die im Vereinsauftrag zur Verfolgung der Vereinszwecke tätig sind werden in voller Höhe erstattet.
-   Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
-   Abgerechnet werden können Fahrtkosten, Reisenebenkosten, Übernachtungskosten, Teilnahmebeiträge und Mehraufwendungen für Verpflegung.
-i. Die Abrechnung von Fahrtkosten mit öffentlichen Verkehrsmitteln erfolgt bei Vorlage der Belege.
+i. Angefallene und nachgewiesene Auslagen des Vorstandes und weiterer Personen die im Vereinsauftrag zur Verfolgung der Vereinszwecke tätig sind werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
+i. Reisen
+   i. Erstattet werden können Fahrtkosten, Reisenebenkosten, Übernachtungskosten, Teilnahmebeiträge und Mehraufwendungen für Verpflegung bei Vorlage der entsprechenden Belege.
    Eine Nutzung des eigenen PKW/Motorrad ist nur mit vorherigem Beschluss des Vorstands gestattet und wird maximal bis zu den steuerlichen Höchstsätzen erstattet.
-i. Auf einen formlosen Antrag des Reisenden können die gesetzlich festgelegten steuerfreien Pauschalen anstelle der tatsächlich angefallenen Aufwendungen gezahlt werden.
-i. Verzichtet der Reisende auf eine Auszahlung der Kosten so kann eine Aufwandsspende geleistet werden.
-   Der Verein erstattet hierbei zunächst den Betrag bevor er als Spende wieder zurückerstattet wird.
+   i. Auf einen formlosen Antrag des Reisenden können die gesetzlich festgelegten steuerfreien Pauschalen anstelle der tatsächlich angefallenen Aufwendungen gezahlt werden.
+   i. Verzichtet der Reisende auf eine Auszahlung der Kosten so kann eine Aufwandsspende geleistet werden.
+   Der Verein erstattet hierbei zunächst den Betrag bevor er als Spende wieder zurück an den Verein geht.
 
 # Elektronische Textform
 
