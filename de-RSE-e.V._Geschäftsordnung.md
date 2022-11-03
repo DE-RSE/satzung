@@ -34,9 +34,15 @@ i. Sollten Güter zugunsten des Vereins eingehen, sind diese im Vermögensregist
 i. Der Schatzmeister führt die Liste der Vereinsmitglieder. Periodisch werden von ihm die sich ergebenden Veränderungen in den Mitgliederzahlen den Vereinsmitgliedern mitgeteilt.
 i. Für den Jahresabschluss oder bei Wechsel des Schatzmeisters ist durch ihn eine Einnahme-Überschuss-Rechnung zu erstellen.
 
-# Erstattung der Auslagen des Vorstands
+# Erstattung der Auslagen des Vorstands und im Vereinsauftrag tätiger Personen
 
-i. Auslagen des Vorstandes zur Verfolgung der Vereinszwecke werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
+i. Angefallene und nachgewiesene Auslagen des Vorstandes und weiterer Personen, die im Vereinsauftrag zur Verfolgung der Vereinszwecke tätig sind, werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
+i. Reisen
+   i. Erstattet werden können Fahrtkosten, Reisenebenkosten, Übernachtungskosten, Teilnahmebeiträge und Mehraufwendungen für Verpflegung bei Vorlage der entsprechenden Belege.
+   Eine Nutzung des eigenen PKW/Motorrad ist nur mit vorherigem Beschluss des Vorstands gestattet und wird maximal bis zu den steuerlichen Höchstsätzen erstattet.
+   i. Auf einen formlosen Antrag des/r Reisenden können die gesetzlich festgelegten steuerfreien Pauschalen anstelle der tatsächlich angefallenen Aufwendungen gezahlt werden.
+   i. Verzichtet die/der Reisende auf eine Auszahlung der Kosten, so kann eine Aufwandsspende geleistet werden.
+   Der Verein erstattet hierbei zunächst den Betrag, bevor er als Spende wieder zurück an den Verein geht.
 
 # Elektronische Textform
 
