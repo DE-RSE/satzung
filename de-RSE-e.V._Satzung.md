@@ -60,6 +60,8 @@ i. Beschlüsse werden von der Mitgliederversammlung durch öffentliche Abstimmun
 i. Jedes ordentliche Mitglied hat genau eine Stimme. Das Stimmrecht kann nur durch persönliche Anwesenheit ausgeübt werden. Mitglieder, die mit ihrer Beitragszahlung im Rückstand sind, haben kein Stimmrecht. Fördermitglieder haben kein Stimmrecht.
 i. Die Mitgliederversammlung kann auf Wunsch eines ordentlichen Mitglieds in eine Internet-Konferenz übertragen werden. Mitglieder, die über einen geschützten Zugang an der Online-Mitgliederversammlung teilnehmen, werden als persönlich anwesend betrachtet. Näheres regelt die Geschäftsordnung.
 i. Anträge können von den Vereinsorganen und von jedem Mitglied gestellt werden. Sie müssen mindestens drei Wochen vor der Mitgliederversammlung in Textform nach §11 beim Vorstand des Vereins eingegangen sein. Später eingehende Anträge dürfen in der Mitgliederversammlung nur behandelt werden, wenn ihre Dringlichkeit mit Zweidrittelmehrheit bejaht wird.
+   Der Vorstand wird ermächtigt, Änderungen an Anträgen vorzunehmen, wenn lediglich sprachliche oder redaktionelle Veränderungen vorgenommen werden (zum Beispiel Formatierung, Tippfehler oder Änderung von Satzzeichen) und die Anträge in ihrem Inhalt unverändert bestehen bleiben.
+   Diese Änderungen bedürfen eines Vorstandsbeschlusses und müssen auf der Mitgliederversammlung mitgeteilt werden.
 i. Zur Fassung eines Beschlusses ist eine einfache Mehrheit der abgegebenen Stimmen notwendig, soweit die Satzung nichts anderes bestimmt. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
 i. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 25% der ordentlichen Mitglieder.
 i. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmerzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmerzahl beschlussfähig.
@@ -94,6 +96,8 @@ i. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die vom Sch
 i. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war.
 i. Für Satzungs- oder Geschäftsordnungsänderungen ist eine Mehrheit von zwei Dritteln in der Mitgliederversammlung erforderlich.
 i. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.
+i. Der Vorstand wird ermächtigt, Satzungs- oder Geschäftsordnungsänderungen vorzunehmen, wenn lediglich sprachliche oder redaktionelle Veränderungen vorgenommen werden (zum Beispiel Formatierung, Tippfehler oder Änderung von Satzzeichen) und die Satzung in ihrem Inhalt unverändert bestehen bleibt.
+   Diese Änderungen bedürfen eines Vorstandsbeschlusses und müssen auf der nächsten Mitgliederversammlung mitgeteilt werden.
 i. Dringlichkeitsanträge nach § 7.v auf Satzungsänderungen sind ausgeschlossen.
 
 # Vereinsauflösung und gemeinnützige Vermögensbildung
