@@ -51,6 +51,7 @@ i. Elektronische Dokumente im Sinne von §11 der Satzung sind mit PGP/GPG oder m
 # Beiträge
 
 i. Der Mitgliedsbeitrag für ordentliche Mitglieder beträgt 60 EUR pro Kalenderjahr. Für Studierende, Schüler, Arbeitslose, Umschüler, Rentner und Menschen mit Behinderung beträgt der jährliche Mitgliedsbeitrag nach Vorlage eines geeigneten Nachweises 30 EUR.
+i. Für Mitglieder anderer Organisationen, mit denen eine Doppelmitgliedschaftsvereinbarung besteht, wird ein Rabatt gewährt. Die Höhe des Rabatts ist die Hälfte des kleineren Vollzahlungsmitgliedsbeitrags von de-RSE e.V. und der anderen Organisation. Ein Nachweis über die Mitgliedschaft und Höhe des Beitrags ist notwendig. Der Vorstand kann Doppelmitgliedschaftsvereinbarungen durch Beschluss abschließen, ändern und beenden.
 i. Die Höhe des Mitgliedsbeitrags für Fördermitglieder ist ihnen freigestellt.
 i. Das Beitragsjahr beginnt mit dem Kalenderjahr des Eintritts des Mitglieds. Der Beitrag ist im Voraus für das gesamte Beitragsjahr fällig.
 i. Der Beitrag ist durch Überweisung auf das Vereinskonto zu bezahlen.
