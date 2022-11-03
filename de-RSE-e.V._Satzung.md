@@ -44,6 +44,7 @@ i. Die Höhe der Aufnahmegebühren und Beiträge werden von der Mitgliederversam
 
 i. Die Mitgliedschaft endet durch Austrittserklärung, durch Ausschluss, durch Tod einer natürlichen Personen oder durch Auflösung und Erlöschung von nicht natürlichen Personen.
 i. Der Austritt wird durch eine in Textform nach §11 abgegebene Willenserklärung gegenüber dem Vorstand erklärt.
+i. Der Austritt aus dem Verein ist mit einer Frist von vier Wochen zum Ende des Geschäftsjahres zu erklären.
 i. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt oder es den satzungsgemäßen Zielen des Vereins entgegenwirkt.
 i. Gegen den in Schriftform mitzuteilenden Ausschluss kann das Mitglied innerhalb eines Monats die Mitgliederversammlung anrufen. Diese entscheidet mit Zweidrittelmehrheit der anwesenden Mitglieder. Das betroffene Mitglied ist zu der betreffenden Sitzung einzuladen und anzuhören, nimmt an der Abstimmung aber nicht teil. Der ordentliche Rechtsweg bleibt unberührt.
 
