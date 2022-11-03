@@ -73,3 +73,15 @@ i. Die Online-Konferenz wird nicht aufgezeichnet.
 
 i. Jedes ordentliche Vereinsmitglied hat das Recht, sich als \"Mitglied von de-RSE e.V. - Gesellschaft für Forschungssoftware\'\' zu bezeichnen.
 i. Über §8.i. hinausgehende Repräsentation des Vereins bedarf der Zustimmung des Vereinsvorstands.
+
+# Wahlen
+
+i. Die Mitgliederversammlung beschließt eine Wahlleitung, die nicht dem Vorstand angehört und nicht selbst zur Wahl steht.
+   Die Amtszeit der Wahlleitung beginnt mit der Wahl des jeweiligen Amts durch die Versammlung und endet mit dem Ende der Versammlung, durch Rücktritt oder Abberufung durch die Versammlung.
+   Bei Rücktritt der Wahlleitung ist unverzüglich eine Nachfolge zu beschließen.
+i. Die Wahlleitung übernimmt folgende Aufgaben:
+    - Feststellen der Zahl der wahlberechtigten Mitglieder.
+    - Prüfung, ob die Kandidaten die satzungsmäßigen Voraussetzungen für die Wählbarkeit (passives Wahlrecht) haben.
+    - Die Auszählung der Stimmen.
+    - Feststellen, dass die Kandidaten die Wahl annehmen.
+    - Feststellung und Bekanntgabe des Wahlergebnisses.
