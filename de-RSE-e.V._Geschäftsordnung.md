@@ -34,9 +34,15 @@ i. Sollten Güter zugunsten des Vereins eingehen, sind diese im Vermögensregist
 i. Der Schatzmeister führt die Liste der Vereinsmitglieder. Periodisch werden von ihm die sich ergebenden Veränderungen in den Mitgliederzahlen den Vereinsmitgliedern mitgeteilt.
 i. Für den Jahresabschluss oder bei Wechsel des Schatzmeisters ist durch ihn eine Einnahme-Überschuss-Rechnung zu erstellen.
 
-# Erstattung der Auslagen des Vorstands
+# Erstattung der Auslagen des Vorstands und im Vereinsauftrag tätiger Personen
 
-i. Auslagen des Vorstandes zur Verfolgung der Vereinszwecke werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
+i. Angefallene und nachgewiesene Auslagen des Vorstandes und weiterer Personen, die im Vereinsauftrag zur Verfolgung der Vereinszwecke tätig sind, werden in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung muss der Vorstand in einer Stellungnahme Zweck- und Verhältnismäßigkeit der Ausgaben nachweisen.
+i. Reisen
+   i. Erstattet werden können Fahrtkosten, Reisenebenkosten, Übernachtungskosten, Teilnahmebeiträge und Mehraufwendungen für Verpflegung bei Vorlage der entsprechenden Belege.
+   Eine Nutzung des eigenen PKW/Motorrad ist nur mit vorherigem Beschluss des Vorstands gestattet und wird maximal bis zu den steuerlichen Höchstsätzen erstattet.
+   i. Auf einen formlosen Antrag des/r Reisenden können die gesetzlich festgelegten steuerfreien Pauschalen anstelle der tatsächlich angefallenen Aufwendungen gezahlt werden.
+   i. Verzichtet die/der Reisende auf eine Auszahlung der Kosten, so kann eine Aufwandsspende geleistet werden.
+   Der Verein erstattet hierbei zunächst den Betrag, bevor er als Spende wieder zurück an den Verein geht.
 
 # Elektronische Textform
 
@@ -45,10 +51,12 @@ i. Elektronische Dokumente im Sinne von §11 der Satzung sind mit PGP/GPG oder m
 # Beiträge
 
 i. Der Mitgliedsbeitrag für ordentliche Mitglieder beträgt 60 EUR pro Kalenderjahr. Für Studierende, Schüler, Arbeitslose, Umschüler, Rentner und Menschen mit Behinderung beträgt der jährliche Mitgliedsbeitrag nach Vorlage eines geeigneten Nachweises 30 EUR.
+i. Für Mitglieder anderer Organisationen, mit denen eine Doppelmitgliedschaftsvereinbarung besteht, wird ein Rabatt gewährt. Die Höhe des Rabatts ist die Hälfte des kleineren Vollzahlungsmitgliedsbeitrags von de-RSE e.V. und der anderen Organisation. Ein Nachweis über die Mitgliedschaft und Höhe des Beitrags ist notwendig. Der Vorstand kann Doppelmitgliedschaftsvereinbarungen durch Beschluss abschließen, ändern und beenden.
 i. Die Höhe des Mitgliedsbeitrags für Fördermitglieder ist ihnen freigestellt.
 i. Das Beitragsjahr beginnt mit dem Kalenderjahr des Eintritts des Mitglieds. Der Beitrag ist im Voraus für das gesamte Beitragsjahr fällig.
 i. Der Beitrag ist durch Überweisung auf das Vereinskonto zu bezahlen.
 i. Auf Antrag kann der Vorstand in begründeten Ausnahmefällen für einzelne Mitglieder Ausnahmen von dieser Beitragsordnung beschließen.
+i. Wahlberechtigt sind nur Vereinsmitglieder, die nicht in Verzug mit den Beitragszahlungen sind. Um Probleme am Wahltag zu vermeiden, müssen Beitragszahlungen spätestens drei Werktage vor der Wahl eingegangen sein.
 
 # Online-Mitgliederversammlung
 
@@ -73,3 +81,15 @@ i. Die Online-Konferenz wird nicht aufgezeichnet.
 
 i. Jedes ordentliche Vereinsmitglied hat das Recht, sich als \"Mitglied von de-RSE e.V. - Gesellschaft für Forschungssoftware\'\' zu bezeichnen.
 i. Über §8.i. hinausgehende Repräsentation des Vereins bedarf der Zustimmung des Vereinsvorstands.
+
+# Wahlen
+
+i. Die Mitgliederversammlung beschließt eine Wahlleitung, die nicht dem Vorstand angehört und nicht selbst zur Wahl steht.
+   Die Amtszeit der Wahlleitung beginnt mit der Wahl des jeweiligen Amts durch die Versammlung und endet mit dem Ende der Versammlung, durch Rücktritt oder Abberufung durch die Versammlung.
+   Bei Rücktritt der Wahlleitung ist unverzüglich eine Nachfolge zu beschließen.
+i. Die Wahlleitung übernimmt folgende Aufgaben:
+    - Feststellen der Zahl der wahlberechtigten Mitglieder.
+    - Prüfung, ob die Kandidaten die satzungsmäßigen Voraussetzungen für die Wählbarkeit (passives Wahlrecht) haben.
+    - Die Auszählung der Stimmen.
+    - Feststellen, dass die Kandidaten die Wahl annehmen.
+    - Feststellung und Bekanntgabe des Wahlergebnisses.
