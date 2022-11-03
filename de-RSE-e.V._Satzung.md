@@ -44,6 +44,7 @@ i. Die Höhe der Aufnahmegebühren und Beiträge werden von der Mitgliederversam
 
 i. Die Mitgliedschaft endet durch Austrittserklärung, durch Ausschluss, durch Tod einer natürlichen Personen oder durch Auflösung und Erlöschung von nicht natürlichen Personen.
 i. Der Austritt wird durch eine in Textform nach §11 abgegebene Willenserklärung gegenüber dem Vorstand erklärt.
+i. Der Austritt aus dem Verein ist mit einer Frist von vier Wochen zum Ende des Geschäftsjahres zu erklären.
 i. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt oder es den satzungsgemäßen Zielen des Vereins entgegenwirkt.
 i. Gegen den in Schriftform mitzuteilenden Ausschluss kann das Mitglied innerhalb eines Monats die Mitgliederversammlung anrufen. Diese entscheidet mit Zweidrittelmehrheit der anwesenden Mitglieder. Das betroffene Mitglied ist zu der betreffenden Sitzung einzuladen und anzuhören, nimmt an der Abstimmung aber nicht teil. Der ordentliche Rechtsweg bleibt unberührt.
 
@@ -60,6 +61,8 @@ i. Beschlüsse werden von der Mitgliederversammlung durch öffentliche Abstimmun
 i. Jedes ordentliche Mitglied hat genau eine Stimme. Das Stimmrecht kann nur durch persönliche Anwesenheit ausgeübt werden. Mitglieder, die mit ihrer Beitragszahlung im Rückstand sind, haben kein Stimmrecht. Fördermitglieder haben kein Stimmrecht.
 i. Die Mitgliederversammlung kann auf Wunsch eines ordentlichen Mitglieds in eine Internet-Konferenz übertragen werden. Mitglieder, die über einen geschützten Zugang an der Online-Mitgliederversammlung teilnehmen, werden als persönlich anwesend betrachtet. Näheres regelt die Geschäftsordnung.
 i. Anträge können von den Vereinsorganen und von jedem Mitglied gestellt werden. Sie müssen mindestens drei Wochen vor der Mitgliederversammlung in Textform nach §11 beim Vorstand des Vereins eingegangen sein. Später eingehende Anträge dürfen in der Mitgliederversammlung nur behandelt werden, wenn ihre Dringlichkeit mit Zweidrittelmehrheit bejaht wird.
+   Der Vorstand wird ermächtigt, Änderungen an Anträgen vorzunehmen, wenn lediglich sprachliche oder redaktionelle Veränderungen vorgenommen werden (zum Beispiel Formatierung, Tippfehler oder Änderung von Satzzeichen) und die Anträge in ihrem Inhalt unverändert bestehen bleiben.
+   Diese Änderungen bedürfen eines Vorstandsbeschlusses und müssen auf der Mitgliederversammlung mitgeteilt werden.
 i. Zur Fassung eines Beschlusses ist eine einfache Mehrheit der abgegebenen Stimmen notwendig, soweit die Satzung nichts anderes bestimmt. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
 i. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 25% der ordentlichen Mitglieder.
 i. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmerzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmerzahl beschlussfähig.
@@ -83,6 +86,10 @@ i. Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermöge
 i. Vorstandsmitglieder können jederzeit von ihrem Amt zurücktreten.
 i. Bei Rücktritt oder andauernder Ausübungsunfähigkeit eines Vorstandsmitglieds ist der gesamte Vorstand neu zu wählen. Bis zur Wahl eines neuen Vorstands ist der bisherige Vorstand zur bestmöglichen Wahrnehmung seiner Aufgaben verpflichtet.
 i. Die Amtsdauer der Vorstandsmitglieder beträgt ein Jahr. Sie werden von der Mitgliederversammlung aus den ordentlichen Mitgliedern des Vereins gewählt. Es werden nacheinander Vorstandsvorsitzender, stellvertretender Vorstandsvorsitzender, Schatzmeister, stellvertretender Schatzmeister, Schriftführer und stellvertretender Schriftführer gewählt. Eine Wiederwahl ist zulässig. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt worden sind.
+i. Ein Kandidat ist gewählt, wenn er die Mehrheit der abgegebenen Stimmen erhält, die nicht ungültig oder Stimmenthaltungen sind (einfache Mehrheit).
+   Erreicht keiner der Kandidaten im ersten Wahlgang die erforderliche Mehrheit, findet eine Stichwahl zwischen den Kandidaten statt, welche die beiden höchsten Stimmenzahlen erreicht haben.
+   Bei gleicher Stimmenzahl in der Stichwahl kann auf Antrag die Mitgliederversammlung ein dritter Wahlgang durchgeführt werden, bei dem alle ursprünglichen Kandidaten zu Wahl stehen und der Kandidat mit den meisten Stimmen gewinnt (relative Mehrheit).
+   Die Vorstandsmitglieder sind wirksam gewählt, wenn der gewählte Kandidat das Amt angenommen hat.
 i. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter. Er kann diese Aufgabe einem Vorstandsmitglied übertragen.
 i. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung notwendiger Auslagen, deren Rahmen von der Geschäftsordnung festgelegt wird.
 i. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden vom Schriftführer in Textform gemäß § 11 einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind.
@@ -94,6 +101,8 @@ i. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die vom Sch
 i. Über Satzungs- und Geschäftsordnungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Text beigefügt worden war.
 i. Für Satzungs- oder Geschäftsordnungsänderungen ist eine Mehrheit von zwei Dritteln in der Mitgliederversammlung erforderlich.
 i. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.
+i. Der Vorstand wird ermächtigt, Satzungs- oder Geschäftsordnungsänderungen vorzunehmen, wenn lediglich sprachliche oder redaktionelle Veränderungen vorgenommen werden (zum Beispiel Formatierung, Tippfehler oder Änderung von Satzzeichen) und die Satzung in ihrem Inhalt unverändert bestehen bleibt.
+   Diese Änderungen bedürfen eines Vorstandsbeschlusses und müssen auf der nächsten Mitgliederversammlung mitgeteilt werden.
 i. Dringlichkeitsanträge nach § 7.v auf Satzungsänderungen sind ausgeschlossen.
 
 # Vereinsauflösung und gemeinnützige Vermögensbildung
