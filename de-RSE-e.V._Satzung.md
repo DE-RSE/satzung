@@ -2,6 +2,7 @@
 
 **Präambel**
 
+<<<<<<< HEAD
 Forschungssoftware und ihre Entwicklung nimmt eine wichtige und
 zunehmend zentrale Rolle in der Wissenschaft ein. Die Förderung von
 Forschung in diesem Bereich sowie die Förderung der an Entwicklung von
@@ -15,6 +16,13 @@ und Inklusivität ist wichtiges Merkmal von de-RSE e.V. Aus Gründen der
 besseren Lesbarkeit wird hier das generische Maskulinum verwendet.
 Sämtliche Personenbezeichnungen gelten gleichermaßen für alle
 Genannten, unabhängig von der geschlechtlichen Identität.
+=======
+Forschungssoftware und ihre Entwicklung nimmt eine wichtige und zunehmend zentrale Rolle in der Wissenschaft ein.
+Die Förderung von Forschung in diesem Bereich sowie die Förderung der an Entwicklung von Forschungssoftware beteiligten Personen muss sich dabei notwendig in gleicher Weise entwickeln, damit wissenschaftliche Forschung weiterhin möglich ist.
+Eine solche Förderung bedarf eines offenen, inklusiven Rahmens, da Forschungssoftware und ihre Entwicklung über alle wissenschaftlichen Erfahrungsstufen, Fähigkeiten, sozialen, geschlechtlichen und anderen Faktoren hinaus wirkt.
+Diese Offenheit und Inklusivität ist wichtiges Merkmal von de-RSE e.V.
+Sämtliche Personenbezeichnungen gelten gleichermaßen für alle Genannten, unabhängig von der geschlechtlichen Identität.
+>>>>>>> 36eb4a8 (Versuch des Genderns unter Beachtung der deutschen Rechtschreibung)
 
 1. **Name, Sitz, Geschäftsjahr**
 
@@ -39,6 +47,7 @@ Genannten, unabhängig von der geschlechtlichen Identität.
 
 3. **Vereinszweck**
 
+<<<<<<< HEAD
     i.  Zwecke des Vereines sind die Förderung der Bildung und der
         Wissenschaft und Forschung im Bereich Forschungssoftware.
     ii. Der Satzungszweck wird insbesondere verwirklicht durch
@@ -52,9 +61,16 @@ Genannten, unabhängig von der geschlechtlichen Identität.
             Forschungssoftware für Wissenschaftler, RSEs,
             Wissenschaftsorganisationen, Forschungsförderer und die
             Öffentlichkeit
+=======
+i. Zwecke des Vereines sind die Förderung der Bildung und der Wissenschaft und Forschung im Bereich Forschungssoftware.
+i. Der Satzungszweck wird insbesondere verwirklicht durch
+    - Bereitstellung von Foren und Organisation von Konferenzen, Workshops und anderen Veranstaltungen für den Austausch zwischen Informatikerinnen, Informatikern, Softwareentwicklern, Softwareentwicklerinnen, Research Software Engineers (RSEs), Wissenschaftlerinnen, Wissenschaftlern und der Öffentlichkeit
+    - Erstellung und Verbreitung von Informationsmaterial und Veröffentlichung von Fachpublikationen zum Thema Forschungssoftware für Wissenschaftler und Wissenschaftlerinnen, RSEs, Wissenschaftsorganisationen, Forschungsförderer und die Öffentlichkeit
+>>>>>>> 36eb4a8 (Versuch des Genderns unter Beachtung der deutschen Rechtschreibung)
 
 4. **Mitgliedschaft und Beiträge**
 
+<<<<<<< HEAD
     i.  Ordentliches Mitglied des Vereins kann jede voll geschäftsfähige
         natürliche oder juristische Person werden, die seine Ziele
         unterstützt. Fördermitglied kann jede natürliche oder
@@ -80,6 +96,14 @@ Genannten, unabhängig von der geschlechtlichen Identität.
     vi. Die Höhe der Aufnahmegebühren und Beiträge werden von der
         Mitgliederversammlung festgelegt. Näheres regelt die
         Geschäftsordnung.
+=======
+i. Ordentliches Mitglied des Vereins kann jede voll geschäftsfähige natürliche oder juristische Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden.
+i. Die Beitrittserklärung erfolgt in Textform gemäß § 11 gegenüber dem Vorstand. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Der Vorstand kann den Beitritt ohne Angabe von Gründen verweigern. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
+i. Hat der Vorstand die Annahme der Beitrittserklärung abgelehnt, so kann die betroffene Person Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet. Die abgelehnte Person ist zu der betreffenden Sitzung einzuladen und anzuhören, nimmt an der Abstimmung aber nicht teil.
+i. Mit der Beitrittserklärung erkennt das Mitglied die Satzung und die Ordnungen von de-RSE e.V. an.
+i. Für eine ordentliche Mitgliedschaft von natürlichen und juristischen Personen in de-RSE e.V. sind Mitgliedsbeiträge zu leisten. Für eine Fördermitgliedschaft von natürlichen und juristischen Personen in de-RSE e.V. sind Mitgliedsbeiträge zu leisten.
+i. Die Höhe der Aufnahmegebühren und Beiträge werden von der Mitgliederversammlung festgelegt. Näheres regelt die Geschäftsordnung.
+>>>>>>> 36eb4a8 (Versuch des Genderns unter Beachtung der deutschen Rechtschreibung)
 
 5. **Beendigung der Mitgliedschaft**
 
@@ -107,6 +131,7 @@ Genannten, unabhängig von der geschlechtlichen Identität.
 
 7. **Mitgliederversammlung**
 
+<<<<<<< HEAD
     i.  Die Mitgliederversammlung ist das oberste Beschlussorgan des
         Vereins. Ihr obliegen alle Entscheidungen, die nicht durch die
         Satzung oder die Geschäftsordnung einem anderen Organ übertragen
@@ -181,6 +206,28 @@ Genannten, unabhängig von der geschlechtlichen Identität.
           ist innerhalb von 14 Tagen allen Mitgliedern zugänglich zu
           machen und auf der nächsten Mitgliederversammlung genehmigen
           zu lassen.
+=======
+i. Die Mitgliederversammlung ist das oberste Beschlussorgan des Vereins. Ihr obliegen alle Entscheidungen, die nicht durch die Satzung oder die Geschäftsordnung einem anderen Organ übertragen wurden.
+i. Beschlüsse werden von der Mitgliederversammlung durch öffentliche Abstimmung getroffen. Auf Wunsch eines ordentlichen Mitglieds ist geheim abzustimmen.
+i. Jedes ordentliche Mitglied hat genau eine Stimme. Das Stimmrecht kann nur durch persönliche Anwesenheit ausgeübt werden. Mitglieder, die mit ihrer Beitragszahlung im Rückstand sind, haben kein Stimmrecht. Fördermitglieder haben kein Stimmrecht.
+i. Die Mitgliederversammlung kann auf Wunsch eines ordentlichen Mitglieds in eine Internet-Konferenz übertragen werden. Durch Beschluss des Vorstandes kann die Mitgliederversammlung vollständig als Internet-Konferenz durchgeführt werden. Mitglieder, die über einen geschützten Zugang an der Online-Mitgliederversammlung teilnehmen, werden als persönlich anwesend betrachtet. Näheres regelt die Geschäftsordnung.
+i. Anträge können von den Vereinsorganen und von jedem Mitglied gestellt werden. Sie müssen mindestens drei Wochen vor der Mitgliederversammlung in Textform nach §11 beim Vorstand des Vereins eingegangen sein. Später eingehende Anträge dürfen in der Mitgliederversammlung nur behandelt werden, wenn ihre Dringlichkeit mit Zweidrittelmehrheit bejaht wird.
+   Der Vorstand wird ermächtigt, Änderungen an Anträgen vorzunehmen, wenn lediglich sprachliche oder redaktionelle Veränderungen vorgenommen werden (zum Beispiel Formatierung, Tippfehler oder Änderung von Satzzeichen) und die Anträge in ihrem Inhalt unverändert bestehen bleiben.
+   Diese Änderungen bedürfen eines Vorstandsbeschlusses und müssen auf der Mitgliederversammlung mitgeteilt werden.
+i. Nur ordentliche Mitglieder mit Stimmrecht können Wahlvorschläge einbringen.
+i. Zur Fassung eines Beschlusses ist eine einfache Mehrheit der abgegebenen Stimmen notwendig, soweit die Satzung nichts anderes bestimmt. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
+i. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 25% der ordentlichen Mitglieder.
+i. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmendenzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmendenzahl beschlussfähig.
+i. Eine ordentliche Mitgliederversammlung, bezeichnet als Jahreshauptversammlung, wird einmal jährlich einberufen.
+i. Die Tagesordnung der Jahreshauptversammlung umfasst unter anderem den Rechenschaftsbericht des Vorstands über die Vereinstätigkeit, den Rechenschaftsbericht der Schatzmeisterei für das vorherige Geschäftsjahr, einen Bericht der Kassenprüfung, und Neuwahlen (Vorstand, Kassenprüfer bzw. -prüferinnen).
+i. Zwei Personen werden zur Kassenprüfung für die Dauer von einem Jahr gewählt und dürfen nicht dem Vorstand angehören. Sie prüfen mindestens einmal jährlich nach Abschluss des Geschäftsjahres die Kassengeschäfte des Vereins und erstellen einen Prüfbericht. Bei ordnungsgemäßer Führung der Kassengeschäfte beantragen die Kassenprüferinnen bzw. -prüfer die Entlastung der Schatzmeisterei und des übrigen Vorstands.
+i. Eine außerordentliche Mitgliederversammlung kann jederzeit einberufen werden, wenn mindestens 25% der Mitglieder oder der Vorstand dies jeweils in Textform gemäß § 11 unter Angabe eines Grundes beantragen. Dem angegebenen Grund müssen die gewünschten Tagesordnungspunkte zu entnehmen sein; sie werden auf die Einladung übernommen.
+i. Dem Vorstand obliegt zu allen Mitgliederversammlungen die Festsetzung eines Termins und die rechtzeitige Einladung aller Mitglieder bis spätestens zwei Wochen vor dem von ihm festgesetzten Termin. Bei von den Mitgliedern beantragten Mitgliederversammlungen darf der Termin nicht mehr als zwölf Wochen nach dem Eingang des Antrags beim Vorstand liegen.
+i. Der Vorstand kann die Einladungen in Textform nach §11 zustellen, muss jedoch eine Kopie auf dem Postweg zustellen, falls das Mitglied den Wunsch dazu in Textform nach §11 angemeldet hat. Für den Nachweis der frist- und ordnungsgemäßen Einladung reicht die Absendung der Einladung an die dem Verein zuletzt bekannte Adresse aus.
+i. In der Einladung werden die Tagesordnungspunkte sowie weitere nötige Informationen bekannt gegeben. Die Mitgliederversammlung kann per Beschluss die Tagesordnung verändern.
+i. Berichte können auch in Textform gemäß §11 vorgelegt werden.
+i. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das von der Versammlungsleitung und der Schriftführung zu unterzeichnen ist. Das Versammlungsprotokoll ist innerhalb von 14 Tagen allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
+>>>>>>> 36eb4a8 (Versuch des Genderns unter Beachtung der deutschen Rechtschreibung)
 
 8. **Vereinsvorstand**
 
