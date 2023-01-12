@@ -75,11 +75,11 @@ i. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertige
 
 # Vereinsvorstand
 
-i. Geschäftsführender Vorstand im Sinne des §26 BGB sind der Vorstandsvorsitzende, der stellvertretende Vorstandsvorsitzende, der Schatzmeister, der stellvertretende Schatzmeister, der Schriftführer sowie der stellvertretende Schriftführer.
+i. Geschäftsführender Vorstand im Sinne des §26 BGB sind der Vorstandsvorsitz, der stellvertretende Vorstandsvorsitz, die Schatzmeisterei, die stellvertretende Schatzmeisterei, die Schriftführung sowie die stellvertretende Schriftführung.
 i. Die Mitglieder des Vorstands sind einzeln berechtigt, den Verein nach außen zu vertreten.
 i. In Abweichung zu der Regelung in Absatz 2 erfolgt zwingend bei Rechtsgeschäften mit einem Geschäftswert von mehr als 500 und bis einschließlich 3000 EUR die Vertretung durch zwei Mitglieder des Vorstands und bei Rechtsgeschäften mit einem Geschäftswert von mehr als 3000 EUR die Vertretung durch vier Mitglieder des Vorstands.
 i. Wählbar als Vorstandsmitglieder sind alle volljährigen und geschäftsfähigen Mitglieder des Vereins.
-i. Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Näheres regelt die Geschäftsordnung.
+i. Die Schatzmeisterei überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Näheres regelt die Geschäftsordnung.
 i. Vorstandsmitglieder können jederzeit von ihrem Amt zurücktreten.
 i. Bei Rücktritt oder andauernder Ausübungsunfähigkeit eines Vorstandsmitglieds ist der gesamte Vorstand neu zu wählen. Bis zur Wahl eines neuen Vorstands ist der bisherige Vorstand zur bestmöglichen Wahrnehmung seiner Aufgaben verpflichtet.
 i. Die Amtsdauer der Vorstandsmitglieder beträgt zwei Jahre. Sie werden von der Mitgliederversammlung aus den ordentlichen Mitgliedern des Vereins gewählt. Es werden nacheinander Vorstandsvorsitz, stellvertretender Vorstandsvorsitz, Schatzmeister bzw. -meisterin, stellvertretende Schatzmeisterin bzw. stellvertretender Schatzmeister, Schriftführende und stellvertretende Schriftführende gewählt. Eine Wiederwahl ist zulässig. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt worden sind.
@@ -89,9 +89,9 @@ i. Eine kandidierende Person ist gewählt, wenn sie die Mehrheit der abgegebenen
    Die Vorstandsmitglieder sind wirksam gewählt, wenn die gewählte Person das Amt angenommen hat.
 i. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter und Mitarbeiterinnen. Er kann diese Aufgabe einem Vorstandsmitglied übertragen.
 i. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung notwendiger Auslagen, deren Rahmen von der Geschäftsordnung festgelegt wird.
-i. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden vom Schriftführer in Textform gemäß § 11 einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind.
+i. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden von der Schriftführung in Textform gemäß § 11 einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind.
 i. Jedes Vorstandsmitglied hat bei Abstimmungen des Vorstands eine Stimme. Bei diesen Abstimmungen ist eine Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen nötig.
-i. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die vom Schriftführer unterzeichnet werden. Mitgliedern muss auf Anfrage Einsicht in die Protokolle gewährt werden.
+i. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die von der Schriftführung unterzeichnet werden. Mitgliedern muss auf Anfrage Einsicht in die Protokolle gewährt werden.
 
 # Satzungs- und Geschäftsordnungsänderung
 
