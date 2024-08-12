@@ -228,12 +228,18 @@ i. Zur Fassung eines Beschlusses ist eine einfache Mehrheit der abgegebenen Stim
 i. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 25% der ordentlichen Mitglieder.
 i. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmendenzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmendenzahl beschlussfähig.
 i. Eine ordentliche Mitgliederversammlung, bezeichnet als Jahreshauptversammlung, wird einmal jährlich einberufen.
+<<<<<<< HEAD
 i. Die Tagesordnung der Jahreshauptversammlung umfasst unter anderem den Rechenschaftsbericht des Vorstands über die Vereinstätigkeit, den Rechenschaftsbericht der Schatzmeisterinnen bzw. -meister für das vorherige Geschäftsjahr, einen Bericht der Kassenprüfer bzw. -prüferinnen, und ggf. Neuwahlen (Vorstand, Kassenprüfer bzw. -prüferinnen).
 i. Zwei Personen werden zur Kassenprüferin bzw. zum Kassenprüfer für die Dauer von zwei Jahren gewählt und dürfen nicht dem Vorstand angehören. Sie prüfen mindestens einmal jährlich nach Abschluss des Geschäftsjahres die Kassengeschäfte des Vereins und erstellen einen Prüfbericht. Bei ordnungsgemäßer Führung der Kassengeschäfte beantragen die Kassenprüferinnen bzw. -prüfer die Entlastung der Schatzmeister bzw. -meisterinnen und des übrigen Vorstands.
+=======
+i. Die Tagesordnung der Jahreshauptversammlung umfasst unter anderem den Rechenschaftsbericht des Vorstands über die Vereinstätigkeit, den Rechenschaftsbericht der Schatzmeisterinnen bzw. -meister für das vorherige Geschäftsjahr, einen Bericht der Kassenprüfer bzw. -prüferinnen, und Neuwahlen (Vorstand, Kassenprüfer bzw. -prüferinnen).
+i. Zwei Personen werden zur Kassenprüferin bzw. zum Kassenprüfer für die Dauer von einem Jahr gewählt und dürfen nicht dem Vorstand angehören. Sie prüfen mindestens einmal jährlich nach Abschluss des Geschäftsjahres die Kassengeschäfte des Vereins und erstellen einen Prüfbericht. Bei ordnungsgemäßer Führung der Kassengeschäfte beantragen die Kassenprüferinnen bzw. -prüfer die Entlastung der Schatzmeister bzw. -meisterinnen und des übrigen Vorstands.
+>>>>>>> ec1e1e5 (Geschützte Leerzeichen wo es passt)
 i. Eine außerordentliche Mitgliederversammlung kann jederzeit einberufen werden, wenn mindestens 25% der Mitglieder oder der Vorstand dies jeweils in Textform gemäß § 11 unter Angabe eines Grundes beantragen. Dem angegebenen Grund müssen die gewünschten Tagesordnungspunkte zu entnehmen sein; sie werden auf die Einladung übernommen.
 i. Dem Vorstand obliegt zu allen Mitgliederversammlungen die Festsetzung eines Termins und die rechtzeitige Einladung aller Mitglieder bis spätestens zwei Wochen vor dem von ihm festgesetzten Termin. Bei von den Mitgliedern beantragten Mitgliederversammlungen darf der Termin nicht mehr als zwölf Wochen nach dem Eingang des Antrags beim Vorstand liegen.
 i. Der Vorstand kann die Einladungen in Textform nach § 11 zustellen, muss jedoch eine Kopie auf dem Postweg zustellen, falls das Mitglied den Wunsch dazu in Textform nach § 11 angemeldet hat. Für den Nachweis der frist- und ordnungsgemäßen Einladung reicht die Absendung der Einladung an die dem Verein zuletzt bekannte Adresse aus.
 i. In der Einladung werden die Tagesordnungspunkte sowie weitere nötige Informationen bekannt gegeben. Die Mitgliederversammlung kann per Beschluss die Tagesordnung verändern.
+<<<<<<< HEAD
 <<<<<<< HEAD
 i. Berichte können auch in Textform gemäß §11 vorgelegt werden.
 <<<<<<< HEAD
@@ -246,9 +252,14 @@ i. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertige
 i. Berichte können auch in Textform gemäß § 11 vorgelegt werden.
 i. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das von der Versammlungsleitung und der bzw. dem Schriftführenden zu unterzeichnen ist. Das Versammlungsprotokoll ist innerhalb von 14 Tagen allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
 >>>>>>> 33dc70c (resolve git conflict without content change)
+=======
+i. Berichte können auch in Textform gemäß § 11 vorgelegt werden.
+i. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das von der Versammlungsleitung und der bzw. dem Schriftführenden zu unterzeichnen ist. Das Versammlungsprotokoll ist innerhalb von 14 Tagen allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
+>>>>>>> ec1e1e5 (Geschützte Leerzeichen wo es passt)
 
 8. **Vereinsvorstand**
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -307,6 +318,9 @@ i. Geschäftsführender Vorstand im Sinne des §26 BGB sind der Vorstandsvorsitz
 =======
 i. Geschäftsführender Vorstand im Sinne des § 26 BGB sind der Vorstandsvorsitz, der stellvertretende Vorstandsvorsitz, der Schatzmeister bzw. die Schatzmeisterin, die stellvertretende Schatzmeisterin bzw. der stellvertretende Schatzmeister, der bzw. die Schriftführende sowie die bzw. der stellvertretende Schriftführende.
 >>>>>>> 33dc70c (resolve git conflict without content change)
+=======
+i. Geschäftsführender Vorstand im Sinne des § 26 BGB sind der Vorstandsvorsitz, der stellvertretende Vorstandsvorsitz, der Schatzmeister bzw. die Schatzmeisterin, die stellvertretende Schatzmeisterin bzw. der stellvertretende Schatzmeister, der bzw. die Schriftführende sowie die bzw. der stellvertretende Schriftführende.
+>>>>>>> ec1e1e5 (Geschützte Leerzeichen wo es passt)
 i. Die Mitglieder des Vorstands sind einzeln berechtigt, den Verein nach außen zu vertreten.
 i. In Abweichung zu der Regelung in Absatz 2 erfolgt zwingend bei Rechtsgeschäften mit einem Geschäftswert von mehr als 500 und bis einschließlich 3000 EUR die Vertretung durch zwei Mitglieder des Vorstands und bei Rechtsgeschäften mit einem Geschäftswert von mehr als 3000 EUR die Vertretung durch vier Mitglieder des Vorstands.
 i. Wählbar als Vorstandsmitglieder sind alle volljährigen und geschäftsfähigen Mitglieder des Vereins.
@@ -352,7 +366,10 @@ i. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus f
 i. Der Vorstand wird ermächtigt, Satzungs- oder Geschäftsordnungsänderungen vorzunehmen, wenn lediglich sprachliche oder redaktionelle Veränderungen vorgenommen werden (zum Beispiel Formatierung, Tippfehler oder Änderung von Satzzeichen) und die Satzung in ihrem Inhalt unverändert bestehen bleibt.
    Diese Änderungen bedürfen eines Vorstandsbeschlusses und müssen auf der nächsten Mitgliederversammlung mitgeteilt werden.
 i. Dringlichkeitsanträge nach § 7.v auf Satzungsänderungen sind ausgeschlossen.
+<<<<<<< HEAD
 >>>>>>> 33dc70c (resolve git conflict without content change)
+=======
+>>>>>>> ec1e1e5 (Geschützte Leerzeichen wo es passt)
 
 10. **Vereinsauflösung und gemeinnützige Vermögensbildung**
 
@@ -376,10 +393,14 @@ i. Dringlichkeitsanträge nach § 7.v auf Satzungsänderungen sind ausgeschloss
 11. **Textform**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     i.  Die Textform entspricht §126b BGB. Die Geschäftsordnung bestimmt
         Anforderungen und Zustellwege derartiger Dokumente.
 =======
 i. Die Textform entspricht § 126b BGB. Die Geschäftsordnung bestimmt Anforderungen und Zustellwege derartiger Dokumente.
 >>>>>>> 33dc70c (resolve git conflict without content change)
+=======
+i. Die Textform entspricht § 126b BGB. Die Geschäftsordnung bestimmt Anforderungen und Zustellwege derartiger Dokumente.
+>>>>>>> ec1e1e5 (Geschützte Leerzeichen wo es passt)
 
 Berlin, den 07.01.2019
