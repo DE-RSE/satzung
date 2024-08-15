@@ -65,7 +65,7 @@ i. Anträge können von den Vereinsorganen und von jedem Mitglied gestellt werde
    Diese Änderungen bedürfen eines Vorstandsbeschlusses und müssen auf der Mitgliederversammlung mitgeteilt werden.
 i. Nur ordentliche Mitglieder mit Stimmrecht können Wahlvorschläge einbringen.
 i. Zur Fassung eines Beschlusses ist eine einfache Mehrheit der abgegebenen Stimmen notwendig, soweit die Satzung nichts anderes bestimmt. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
-i. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 25% der anwesenden und vertretenen stimmberechtigten Mitglieder.
+i. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 25% der ordentlichen Mitglieder.
 i. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmendenzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmendenzahl beschlussfähig.
 i. Eine ordentliche Mitgliederversammlung, bezeichnet als Jahreshauptversammlung, wird einmal jährlich einberufen.
 i. Die Tagesordnung der Jahreshauptversammlung umfasst unter anderem den Rechenschaftsbericht des Vorstands über die Vereinstätigkeit, den Rechenschaftsbericht der Schatzmeisterinnen bzw. -meister für das vorherige Geschäftsjahr, einen Bericht der Kassenprüfer bzw. -prüferinnen, und Neuwahlen (Vorstand, Kassenprüfer bzw. -prüferinnen).
