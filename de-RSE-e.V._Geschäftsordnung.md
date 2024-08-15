@@ -52,7 +52,7 @@ i. Elektronische Dokumente im Sinne von §11 der Satzung sind mit PGP/GPG oder m
 
 i. Der Mitgliedsbeitrag für ordentliche Mitglieder beträgt 60 EUR pro Kalenderjahr. Für Studierende, Schüler, Arbeitslose, Umschüler, Rentner und Menschen mit Behinderung beträgt der jährliche Mitgliedsbeitrag nach Vorlage eines geeigneten Nachweises 30 EUR.
 i. Für Mitglieder anderer Organisationen, mit denen eine Doppelmitgliedschaftsvereinbarung besteht, wird ein Rabatt gewährt. Die Höhe des Rabatts ist die Hälfte des kleineren Vollzahlungsmitgliedsbeitrags von de-RSE e.V. und der anderen Organisation. Ein Nachweis über die Mitgliedschaft und Höhe des Beitrags ist notwendig. Der Vorstand kann Doppelmitgliedschaftsvereinbarungen durch Beschluss abschließen, ändern und beenden.
-i. Institionen können über eine institutionelle Mitgliedschaft ihr Interesse an den Zielen des de-RSE e.V. bekräftigen. Jede institutionelle Mitgliedschaft beinhaltet eine Stimme bei Mitgliedsversammlungen. Die abstimmende Person muss vor der Abstimmung von der vertretenden Institution bevollmächtigt worden und der Nachweis darüber dem Vorstand von de-RSE e.V. zugänglich gemacht worden sein. Der Beitrag institutioneller Mitgliedschaften ist gestaffelt:
+i. Institionen können über eine institutionelle Mitgliedschaft ihr Interesse an den Zielen des de-RSE e.V. bekräftigen. Jede institutionelle Mitgliedschaft beinhaltet eine Stimme bei Mitgliedsversammlungen. Die abstimmende Person muss vor der Abstimmung von der vertretenden Institution bevollmächtigt und der Nachweis darüber dem Vorstand von de-RSE e.V. zugänglich gemacht worden sein. Der Beitrag institutioneller Mitgliedschaften ist gestaffelt:
     i. Bronze: 250 EUR
     i. Silber: 500 EUR
     i. Gold:  1000 EUR
