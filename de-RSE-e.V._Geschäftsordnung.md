@@ -66,10 +66,16 @@ i. Institionen können über eine institutionelle Mitgliedschaft ihr Interesse a
 >>>>>>> 74c5443 (Änderung der Höhe gemäß Vorschlag aus Vorstandssitzung 2024-09-19)
 =======
 i. Institionen können über eine institutionelle Mitgliedschaft ihr Interesse an den Zielen des de-RSE e.V. bekräftigen. Jede institutionelle Mitgliedschaft beinhaltet eine Stimme bei Mitgliedsversammlungen. Die abstimmende Person muss vor der Abstimmung von der vertretenden Institution bevollmächtigt und der Nachweis darüber dem Vorstand von de-RSE e.V. zugänglich gemacht worden sein. Der Beitrag institutioneller Mitgliedschaften ist gestaffelt:
+<<<<<<< HEAD
     i. Bronze:   500 €
     i. Silber:  2500 €
     i. Gold:   10000 €
 >>>>>>> ae151f2 (merge)
+=======
+    i. Bronze:  500 €
+    i. Silber: 2000 €
+    i. Gold:   5000 €
+>>>>>>> 91fc372 (neue Zahlen laut Sitzung 2024-09-19)
 i. Die Höhe des Mitgliedsbeitrags für Fördermitglieder ist ihnen freigestellt.
 i. Das Beitragsjahr beginnt mit dem Kalenderjahr des Eintritts des Mitglieds. Der Beitrag ist im Voraus für das gesamte Beitragsjahr fällig.
 i. Der Beitrag ist durch Überweisung auf das Vereinskonto zu bezahlen.
