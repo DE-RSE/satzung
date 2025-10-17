@@ -56,6 +56,7 @@ i. Institionen können über eine institutionelle Mitgliedschaft ihr Interesse a
     i. Bronze:  500 €
     i. Silber: 2000 €
     i. Gold:   5000 €
+i. Der Beitrag für Beschäftigte von Einrichtungen, die institutionelle Mitglieder des de-RSE e.V. sind, beträgt 45 Euro.
 i. Die Höhe des Mitgliedsbeitrags für Fördermitglieder ist ihnen freigestellt.
 i. Das Beitragsjahr beginnt mit dem Kalenderjahr des Eintritts des Mitglieds. Der Beitrag ist im Voraus für das gesamte Beitragsjahr fällig.
 i. Der Beitrag ist durch Überweisung auf das Vereinskonto zu bezahlen.
