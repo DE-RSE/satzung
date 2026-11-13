@@ -8,7 +8,6 @@ Forschungssoftware und ihre Entwicklung nimmt eine wichtige und zunehmend zentra
 Die Förderung von Forschung in diesem Bereich sowie die Förderung der an Entwicklung von Forschungssoftware beteiligten Personen muss sich dabei notwendig in gleicher Weise entwickeln, damit wissenschaftliche Forschung weiterhin möglich ist.
 Eine solche Förderung bedarf eines offenen, inklusiven Rahmens, da Forschungssoftware und ihre Entwicklung über alle wissenschaftlichen Erfahrungsstufen, Fähigkeiten, sozialen, geschlechtlichen und anderen Faktoren hinaus wirkt.
 Diese Offenheit und Inklusivität ist wichtiges Merkmal von de-RSE e.V.
-Aus Gründen der besseren Lesbarkeit wird hier das generische Maskulinum verwendet.
 Sämtliche Personenbezeichnungen gelten gleichermaßen für alle Genannten, unabhängig von der geschlechtlichen Identität.
 
 # Name, Sitz, Geschäftsjahr
@@ -28,14 +27,14 @@ i. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf ke
 
 i. Zwecke des Vereines sind die Förderung der Bildung und der Wissenschaft und Forschung im Bereich Forschungssoftware.
 i. Der Satzungszweck wird insbesondere verwirklicht durch
-    - Bereitstellung von Foren und Organisation von Konferenzen, Workshops und anderen Veranstaltungen für den Austausch zwischen Informatikern, Softwareentwicklern, Research Software Engineers (RSEs), Wissenschaftlern und der Öffentlichkeit
-    - Erstellung und Verbreitung von Informationsmaterial und Veröffentlichung von Fachpublikationen zum Thema Forschungssoftware für Wissenschaftler, RSEs, Wissenschaftsorganisationen, Forschungsförderer und die Öffentlichkeit
+    - Bereitstellung von Foren und Organisation von Konferenzen, Workshops und anderen Veranstaltungen für den Austausch zwischen Informatikerinnen, Informatikern, Softwareentwicklern, Softwareentwicklerinnen, Research Software Engineers (RSEs), Wissenschaftlerinnen, Wissenschaftlern und der Öffentlichkeit
+    - Erstellung und Verbreitung von Informationsmaterial und Veröffentlichung von Fachpublikationen zum Thema Forschungssoftware für Wissenschaftler und Wissenschaftlerinnen, RSEs, Wissenschaftsorganisationen, Forschungsförderer und die Öffentlichkeit
 
 # Mitgliedschaft und Beiträge
 
 i. Ordentliches Mitglied des Vereins kann jede voll geschäftsfähige natürliche oder juristische Person werden, die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder juristische Person werden.
 i. Die Beitrittserklärung erfolgt in Textform gemäß § 11 gegenüber dem Vorstand. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Der Vorstand kann den Beitritt ohne Angabe von Gründen verweigern. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
-i. Hat der Vorstand die Annahme der Beitrittserklärung abgelehnt, so kann der Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet. Der betroffene Bewerber ist zu der betreffenden Sitzung einzuladen und anzuhören, nimmt an der Abstimmung aber nicht teil.
+i. Hat der Vorstand die Annahme der Beitrittserklärung abgelehnt, so kann die betroffene Person Einspruch zur nächsten Mitgliederversammlung einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme entscheidet. Die abgelehnte Person ist zu der betreffenden Sitzung einzuladen und anzuhören, nimmt an der Abstimmung aber nicht teil.
 i. Mit der Beitrittserklärung erkennt das Mitglied die Satzung und die Ordnungen von de-RSE e.V. an.
 i. Für eine ordentliche Mitgliedschaft von natürlichen und juristischen Personen in de-RSE e.V. sind Mitgliedsbeiträge zu leisten. Für eine Fördermitgliedschaft von natürlichen und juristischen Personen in de-RSE e.V. sind Mitgliedsbeiträge zu leisten.
 i. Die Höhe der Aufnahmegebühren und Beiträge werden von der Mitgliederversammlung festgelegt. Näheres regelt die Geschäftsordnung.
@@ -63,7 +62,7 @@ i. Die Mitgliederversammlung kann auf Wunsch eines ordentlichen Mitglieds in ein
 i. Anträge können von den Vereinsorganen und von jedem Mitglied gestellt werden. Sie müssen mindestens drei Wochen vor der Mitgliederversammlung in Textform nach §11 beim Vorstand des Vereins eingegangen sein. Später eingehende Anträge dürfen in der Mitgliederversammlung nur behandelt werden, wenn ihre Dringlichkeit mit Zweidrittelmehrheit bejaht wird.
 i. Zur Fassung eines Beschlusses ist eine einfache Mehrheit der abgegebenen Stimmen notwendig, soweit die Satzung nichts anderes bestimmt. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
 i. Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung beträgt 25% der ordentlichen Mitglieder.
-i. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmerzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmerzahl beschlussfähig.
+i. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmendenzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmendenzahl beschlussfähig.
 i. Eine ordentliche Mitgliederversammlung, bezeichnet als Jahreshauptversammlung, wird einmal jährlich einberufen.
 i. Die Tagesordnung der Jahreshauptversammlung umfasst unter anderem den Rechenschaftsbericht des Vorstands über die Vereinstätigkeit, den Rechenschaftsbericht der Schatzmeisterinnen bzw. -meister für das vorherige Geschäftsjahr, einen Bericht der Kassenprüfer bzw. -prüferinnen, und ggf. Neuwahlen (Vorstand, Kassenprüfer bzw. -prüferinnen).
 i. Zwei Personen werden zur Kassenprüferin bzw. zum Kassenprüfer für die Dauer von zwei Jahren gewählt und dürfen nicht dem Vorstand angehören. Sie prüfen mindestens einmal jährlich nach Abschluss des Geschäftsjahres die Kassengeschäfte des Vereins und erstellen einen Prüfbericht. Bei ordnungsgemäßer Führung der Kassengeschäfte beantragen die Kassenprüferinnen bzw. -prüfer die Entlastung der Schatzmeister bzw. -meisterinnen und des übrigen Vorstands.
@@ -72,27 +71,27 @@ i. Dem Vorstand obliegt zu allen Mitgliederversammlungen die Festsetzung eines T
 i. Der Vorstand kann die Einladungen in Textform nach §11 zustellen, muss jedoch eine Kopie auf dem Postweg zustellen, falls das Mitglied den Wunsch dazu in Textform nach §11 angemeldet hat. Für den Nachweis der frist- und ordnungsgemäßen Einladung reicht die Absendung der Einladung an die dem Verein zuletzt bekannte Adresse aus.
 i. In der Einladung werden die Tagesordnungspunkte sowie weitere nötige Informationen bekannt gegeben. Die Mitgliederversammlung kann per Beschluss die Tagesordnung verändern.
 i. Berichte können auch in Textform gemäß §11 vorgelegt werden.
-i. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und vom Schriftführer zu unterzeichnen ist. Das Versammlungsprotokoll ist innerhalb von 14 Tagen allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
+i. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das von der Versammlungsleitung und der bzw. dem Schriftführenden zu unterzeichnen ist. Das Versammlungsprotokoll ist innerhalb von 14 Tagen allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
 
 # Vereinsvorstand
 
-i. Geschäftsführender Vorstand im Sinne des §26 BGB sind der Vorstandsvorsitzende, der stellvertretende Vorstandsvorsitzende, der Schatzmeister, der stellvertretende Schatzmeister, der Schriftführer sowie der stellvertretende Schriftführer.
+i. Geschäftsführender Vorstand im Sinne des §26 BGB sind der Vorstandsvorsitz, der stellvertretende Vorstandsvorsitz, der Schatzmeister bzw. die Schatzmeisterin, die stellvertretende Schatzmeisterin bzw. der stellvertretende Schatzmeister, der bzw. die Schriftführende sowie die bzw. der stellvertretende Schriftführende.
 i. Die Mitglieder des Vorstands sind einzeln berechtigt, den Verein nach außen zu vertreten.
 i. In Abweichung zu der Regelung in Absatz 2 erfolgt zwingend bei Rechtsgeschäften mit einem Geschäftswert von mehr als 500 und bis einschließlich 3000 EUR die Vertretung durch zwei Mitglieder des Vorstands und bei Rechtsgeschäften mit einem Geschäftswert von mehr als 3000 EUR die Vertretung durch vier Mitglieder des Vorstands.
 i. Wählbar als Vorstandsmitglieder sind alle volljährigen und geschäftsfähigen Mitglieder des Vereins.
-i. Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Näheres regelt die Geschäftsordnung.
+i. Die Schatzmeister bzw. -meisterinnen überwachen die Haushaltsführung und verwalten das Vermögen des Vereins. Näheres regelt die Geschäftsordnung.
 i. Vorstandsmitglieder können jederzeit von ihrem Amt zurücktreten.
 i. Bei Rücktritt oder andauernder Ausübungsunfähigkeit eines Vorstandsmitglieds ist der gesamte Vorstand neu zu wählen. Bis zur Wahl eines neuen Vorstands ist der bisherige Vorstand zur bestmöglichen Wahrnehmung seiner Aufgaben verpflichtet.
-i. Die Amtsdauer der Vorstandsmitglieder beträgt zwei Jahre. Sie werden von der Mitgliederversammlung aus den ordentlichen Mitgliedern des Vereins gewählt. Es werden nacheinander Vorstandsvorsitz, stellvertretender Vorstandsvorsitz, Schatzmeister bzw. -meisterin, stellvertretende Schatzmeisterin bzw. stellvertretender Schatzmeister, Schriftführende und stellvertretende Schriftführende gewählt. Eine Wiederwahl ist zulässig. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt worden sind.
+i. Die Amtsdauer der Vorstandsmitglieder beträgt zwei Jahre. Sie werden von der Mitgliederversammlung aus den ordentlichen Mitgliedern des Vereins gewählt. Es werden nacheinander Vorstandsvorsitz, stellvertretender Vorstandsvorsitz, Schatzmeister bzw. Schatzmeisterin, stellvertretende Schatzmeisterin bzw. stellvertretender Schatzmeister, Schriftführende und stellvertretende Schriftführende gewählt. Eine Wiederwahl ist zulässig. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt worden sind.
 i. Eine kandidierende Person ist gewählt, wenn sie die Mehrheit der abgegebenen Stimmen erhält, die nicht ungültig oder Stimmenthaltungen sind (einfache Mehrheit).
    Erreichen keine der Kandidierenden im ersten Wahlgang die erforderliche Mehrheit, findet eine Stichwahl zwischen den Kandidierenden statt, welche die beiden höchsten Stimmenzahlen erreicht haben.
    Bei gleicher Stimmenzahl in der Stichwahl kann auf Antrag der Mitgliederversammlung ein dritter Wahlgang durchgeführt werden, bei dem alle ursprünglich kandidierenden Personen zu Wahl stehen und die Person mit den meisten Stimmen gewinnt (relative Mehrheit).
    Die Vorstandsmitglieder sind wirksam gewählt, wenn die gewählte Person das Amt angenommen hat.
 i. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter und Mitarbeiterinnen. Er kann diese Aufgabe einem Vorstandsmitglied übertragen.
 i. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung notwendiger Auslagen, deren Rahmen von der Geschäftsordnung festgelegt wird.
-i. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden vom Schriftführer in Textform gemäß § 11 einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind.
+i. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden von der bzw. dem Schriftführenden in Textform gemäß § 11 einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind.
 i. Jedes Vorstandsmitglied hat bei Abstimmungen des Vorstands eine Stimme. Bei diesen Abstimmungen ist eine Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen nötig.
-i. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die vom Schriftführer unterzeichnet werden. Mitgliedern muss auf Anfrage Einsicht in die Protokolle gewährt werden.
+i. Über die Beschlüsse des Vorstands sind Protokolle anzufertigen, die von der bzw. dem Schriftführenden unterzeichnet werden. Mitgliedern muss auf Anfrage Einsicht in die Protokolle gewährt werden.
 
 # Satzungs- und Geschäftsordnungsänderung
 
